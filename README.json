@@ -1,376 +1,374 @@
 {
   "items": [
     {
-      "description": "Bad:\nGood:\n⬆ Back to top\nName the variable to reflect what it is used for.\nBad:\nGood:\n⬆ Back to top\nHungarian Notation restates the type which is already present in the declaration. This is pointless since modern IDEs will identify the type.\nBad:\nGood:\nHungarian Notation should also not be used in paramaters.\nBad:\nGood:\n⬆ Back to top\nCapitalization tells you a lot about your variables, functions, etc. These rules are subjective, so your team can choose whatever they want. The point is, no matter what you all choose, just be consistent.\nBad:\nGood:\nIt will take time to investigate the meaning of the variables and functions when they are not pronounceable.\nBad:\nGood:\n⬆ Back to top\nUse Camelcase Notation for variable and method paramaters.\nBad:\nGood:\n⬆ Back to top\nPeople who read your code are also programmers. Naming things right will help everyone be on the same page. We don't want to take time to explain to everyone what a variable or function is for.\nGood\n⬆ Back to top",
-      "items": [],
-      "title": "Naming"
-    },
-    {
-      "description": "Too many if else statements can make the code hard to follow. Explicit is better than implicit.\nBad:\nGood:\nBad:\nGood:\nDon’t force the reader of your code to translate what the variable means. Explicit is better than implicit.\nBad:\nGood:\nMagic strings are string values that are specified directly within application code that have an impact on the application’s behavior. Frequently, such strings will end up being duplicated within the system, and since they cannot automatically be updated using refactoring tools, they become a common source of bugs when changes are made to some strings but not others.\nBad\nGood\nUsing this we only have to change in centralize place and others will adapt it.\nIf your class/object name tells you something, don't repeat that in your variable name.\nBad:\nGood:\nBad:\nGood:\n⬆ Back to top\nBad:\nGood:\n⬆ Back to top\nWe will read more code than we will ever write. It's important that the code we do write is readable and searchable. By not naming variables that end up being meaningful for understanding our program, we hurt our readers. Make your names searchable.\nBad:\nGood:\n⬆ Back to top\nBad:\nGood:\n⬆ Back to top\nBad:\nGood:\nDecrease dependence on regex by naming subpatterns.\nNot good:\nThis is not good because can be .\nThis opinion is more understandable than the previous version, but it better controls the value of the variable.\nGood:",
-      "items": [],
-      "title": "Variables"
-    },
-    {
-      "description": "Testing is more important than shipping. If you have no tests or an inadequate amount, then every time you ship code you won't be sure that you didn't break anything. Deciding on what constitutes an adequate amount is up to your team, but having 100% coverage (all statements and branches) is how you achieve very high confidence and developer peace of mind. This means that in addition to having a great testing framework, you also need to use a good coverage tool.\nThere's no excuse to not write tests. There's plenty of good .NET test frameworks, so find one that your team prefers. When you find one that works for your team, then aim to always write tests for every new feature/module you introduce. If your preferred method is Test Driven Development (TDD), that is great, but the main point is to just make sure you are reaching your coverage goals before launching any feature, or refactoring an existing one.\nEnsures that your tests are laser focused and not testing miscellaenous (non-related) things, forces AAA patern used to make your codes more clean and readable.\nBad:\nGood:",
-      "items": [],
-      "title": "Testing"
-    },
-    {
-      "description": "Summary of Asynchronous Programming Guidelines\nThe Async Way of Doing Things\nBest practice\nThe async/await is the best for IO bound tasks (networking communication, database communication, http request, etc.) but it is not good to apply on computational bound tasks (traverse on the huge list, render a hugge image, etc.). Because it will release the holding thread to the thread pool and CPU/cores available will not involve to process those tasks. Therefore, we should avoid using Async/Await for computional bound tasks.\nFor dealing with computational bound tasks, prefer to use with is . It will start a new background thread to process a heavy computational bound task without release it back to the thread pool until the task being completed.\nKnow Your Tools\nThere's a lot to learn about async and await, and it's natural to get a little disoriented. Here's a quick reference of solutions to common problems.\nSolutions to Common Async Problems\nRead the Task-based Asynchronous Pattern (TAP) document. It is extremely well-written, and includes guidance on API design and the proper use of async/await (including cancellation and progress reporting).\nThere are many new await-friendly techniques that should be used instead of the old blocking techniques. If you have any of these Old examples in your new async code, you're Doing It Wrong(TM):",
-      "items": [],
-      "title": "Concurrency"
-    },
-    {
-      "description": "Thrown errors are a good thing! They mean the runtime has successfully identified when something in your program has gone wrong and it's letting you know by stopping function execution on the current stack, killing the process (in .NET/.NET Core), and notifying you in the console with a stack trace.\nIf you need to re-throw an exception after catching it, use just 'throw' By using this, you will save the stack trace. But in the bad option below, you will lost the stack trace.\nBad:\nGood:\nDoing nothing with a caught error doesn't give you the ability to ever fix or react to said error. Throwing the error isn't much better as often times it can get lost in a sea of things printed to the console. If you wrap any bit of code in a it means you think an error may occur there and therefore you should have a plan, or create a code path, for when it occurs.\nBad:\nGood:\nIf you need to take action according to type of the exception, you better use multiple catch block for exception handling.\nBad:\nGood:\nC# allows the exception to be rethrown in a catch block using the keyword. It is a bad practice to throw a caught exception using . This statement resets the stack trace. Instead use . This will keep the stack trace and provide a deeper insight about the exception. Another option is to use a custom exception. Simply instantiate a new exception and set its inner exception property to the caught exception with throw . Adding information to an exception is a good practice as it will help with debugging. However, if the objective is to log an exception then use to pass the buck to the caller.\nBad:\nGood:\nGood:",
-      "items": [],
-      "title": "Error Handling"
-    },
-    {
-      "description": "Bad:\nHas many code formatting styles in the project. For example, indent style is and mixed in the project.\nGood:\nDefine and maintain consistent code style in your codebase with the use of an file",
-      "items": [],
-      "title": "Formatting"
-    },
-    {
-      "description": "They usually just add noise. Let the functions and variable names along with the proper indentation and formatting give the visual structure to your code.\nBad:\nBad:\nGood:\nVersion control exists for a reason. Leave old code in your history.\nBad:\nGood:\nRemember, use version control! There's no need for dead code, commented code, and especially journal comments. Use to get history!\nBad:\nGood:\nComments are an apology, not a requirement. Good code mostly documents itself.\nBad:\nBetter but still Bad:\nIf a comment explains WHAT the code is doing, it is probably a useless comment and can be implemented with a well named variable or function. The comment in the previous code could be replaced with a function named so this comment is still useless. However it would be hard to express by code WHY the developer chose djb2 hash algorithm instead of sha-1 or another hash function. In that case a comment is acceptable.\nGood:",
-      "items": [],
-      "title": "Comments"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "clean-code-javascript",
-          "description": "Clean Code concepts adapted for JavaScript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-07-29T07:24:37Z",
-            "owner": "ryanmcdermott",
-            "repo": "clean-code-javascript",
-            "stars": 94758
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clean-code-php",
-          "description": "Clean Code concepts adapted for PHP",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-05-09T12:52:01Z",
-            "owner": "piotrplenik",
-            "repo": "clean-code-php",
-            "stars": 12446
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clean-code-typescript",
-          "description": "Clean Code concepts adapted for TypeScript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-07-01T14:56:36Z",
-            "owner": "labs42io",
-            "repo": "clean-code-typescript",
-            "stars": 9797
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clean-code-python",
-          "description": "Clean Code concepts adapted for Python",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-10T14:49:36Z",
-            "owner": "zedr",
-            "repo": "clean-code-python",
-            "stars": 4833
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "programming-principles",
-          "description": "Categorized overview of Programming Principles & Patterns",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-30T07:21:35Z",
-            "owner": "webpro",
-            "repo": "programming-principles",
-            "stars": 3093
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clean-go-article",
-          "description": "Clean Code concepts adapted for Golang and an example how to apply clean code in Golang",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-01-31T15:24:34Z",
-            "owner": "Pungyeon",
-            "repo": "clean-go-article",
-            "stars": 3088
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clean-abap",
-          "description": "Clean Code concepts adapted for ABAP",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Markdown",
-            "last_commit": "2026-04-02T14:34:35Z",
-            "owner": "SAP",
-            "repo": "styleguides",
-            "stars": 1991
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clean-code-ruby",
-          "description": "Clean Code concepts adapted for Ruby",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2022-09-10T02:38:29Z",
-            "owner": "uohzxela",
-            "repo": "clean-code-ruby",
-            "stars": 1596
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Elixir-Code-Smells",
-          "description": "Catalog of Elixir-specific code smells",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2024-09-12T20:04:42Z",
-            "owner": "lucasvegi",
-            "repo": "Elixir-Code-Smells",
-            "stars": 1513
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-clean-code",
-          "description": "Design principles, featured articles, tutorials, videos, code examples, blogs and books",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-03-20T19:19:42Z",
-            "owner": "kkisiele",
-            "repo": "awesome-clean-code",
-            "stars": 121
-          }
-        }
-      ],
-      "title": "Other Clean Code Lists"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nodebestpractices",
-          "description": "The Node.js best practices list",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dockerfile",
-            "last_commit": "2026-06-15T11:41:04Z",
-            "owner": "goldbergyoni",
-            "repo": "nodebestpractices",
-            "stars": 105585
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Google Styleguides",
-          "description": "This project holds the C++ Style Guide, Swift Style Guide, Objective-C Style Guide, Java Style Guide, Python Style Guide, R Style Guide, Shell Style Guide, HTML/CSS Style Guide, JavaScript Style Guide, AngularJS Style Guide, Common Lisp Style Guide, and Vimscript Style Guide",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-06-03T15:51:23Z",
-            "owner": "google",
-            "repo": "styleguide",
-            "stars": 39513
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Django Styleguide",
-          "description": "Django styleguide used in HackSoft projects",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-25T11:25:18Z",
-            "owner": "HackSoftware",
-            "repo": "Django-Styleguide",
-            "stars": 6276
-          }
-        }
-      ],
-      "title": "Style Guides"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "codemaid",
-          "description": "open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-10-13T14:27:40Z",
-            "owner": "codecadwallader",
-            "repo": "codemaid",
-            "stars": 1984
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sharpen",
-          "description": "Visual Studio extension that intelligently introduces new C# features into your existing code base",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2022-12-08T09:43:38Z",
-            "owner": "sharpenrocks",
-            "repo": "Sharpen",
-            "stars": 413
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tslint-clean-code",
-          "description": "TSLint rules for enforcing Clean Code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-11T00:03:05Z",
-            "owner": "Glavin001",
-            "repo": "tslint-clean-code",
-            "stars": 175
-          }
-        }
-      ],
-      "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Modern JavaScript Cheatsheet",
-          "description": "Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-10-15T14:33:12Z",
-            "owner": "mbeaudru",
-            "repo": "modern-js-cheatsheet",
-            "stars": 25614
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "naming-cheatsheet",
-          "description": "Comprehensive language-agnostic guidelines on variables naming",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-03-13T22:39:17Z",
-            "owner": "kettanaito",
-            "repo": "naming-cheatsheet",
-            "stars": 14181
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cognitive Load In Software Development",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "clean-code-javascript",
+              "description": "Clean Code concepts adapted for JavaScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74791366,
+                "language": "JavaScript",
+                "last_commit": "2024-07-29T07:24:37Z",
+                "owner": "ryanmcdermott",
+                "repo": "clean-code-javascript",
+                "stars": 94758
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clean-code-php",
+              "description": "Clean Code concepts adapted for PHP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79111500,
+                "language": "PHP",
+                "last_commit": "2024-05-09T12:52:01Z",
+                "owner": "piotrplenik",
+                "repo": "clean-code-php",
+                "stars": 12446
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clean-code-typescript",
+              "description": "Clean Code concepts adapted for TypeScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167032345,
+                "language": "TypeScript",
+                "last_commit": "2025-07-01T14:56:36Z",
+                "owner": "labs42io",
+                "repo": "clean-code-typescript",
+                "stars": 9798
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clean-code-python",
+              "description": "Clean Code concepts adapted for Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102487700,
+                "language": "Python",
+                "last_commit": "2023-06-10T14:49:36Z",
+                "owner": "zedr",
+                "repo": "clean-code-python",
+                "stars": 4835
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "programming-principles",
+              "description": "Categorized overview of Programming Principles & Patterns",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25708683,
+                "language": null,
+                "last_commit": "2026-06-30T07:21:35Z",
+                "owner": "webpro",
+                "repo": "programming-principles",
+                "stars": 3093
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clean-go-article",
+              "description": "Clean Code concepts adapted for Golang and an example how to apply clean code in Golang",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192071673,
+                "language": null,
+                "last_commit": "2023-01-31T15:24:34Z",
+                "owner": "Pungyeon",
+                "repo": "clean-go-article",
+                "stars": 3088
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clean-abap",
+              "description": "Clean Code concepts adapted for ABAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183526229,
+                "language": "Markdown",
+                "last_commit": "2026-04-02T14:34:35Z",
+                "owner": "SAP",
+                "repo": "styleguides",
+                "stars": 1992
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clean-code-ruby",
+              "description": "Clean Code concepts adapted for Ruby",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102773976,
+                "language": "Ruby",
+                "last_commit": "2022-09-10T02:38:29Z",
+                "owner": "uohzxela",
+                "repo": "clean-code-ruby",
+                "stars": 1596
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Elixir-Code-Smells",
+              "description": "Catalog of Elixir-specific code smells",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 459650085,
+                "language": "Elixir",
+                "last_commit": "2024-09-12T20:04:42Z",
+                "owner": "lucasvegi",
+                "repo": "Elixir-Code-Smells",
+                "stars": 1513
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-clean-code",
+              "description": "Design principles, featured articles, tutorials, videos, code examples, blogs and books",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129794252,
+                "language": null,
+                "last_commit": "2023-03-20T19:19:42Z",
+                "owner": "kkisiele",
+                "repo": "awesome-clean-code",
+                "stars": 121
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-29T17:36:29Z",
-            "owner": "zakirullin",
-            "repo": "cognitive-load",
-            "stars": 12478
-          }
+          "node_type": "group",
+          "title": "Other Clean Code Lists"
         },
         {
-          "node_type": "item",
-          "title": "AspNetCoreDiagnosticScenarios",
-          "description": "Examples of broken patterns in ASP.NET Core applications",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2024-05-28T16:50:09Z",
-            "owner": "davidfowl",
-            "repo": "AspNetCoreDiagnosticScenarios",
-            "stars": 8509
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Go Concurrency Guide",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nodebestpractices",
+              "description": "The Node.js best practices list",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103633984,
+                "language": "Dockerfile",
+                "last_commit": "2026-06-15T11:41:04Z",
+                "owner": "goldbergyoni",
+                "repo": "nodebestpractices",
+                "stars": 105589
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Google Styleguides",
+              "description": "This project holds the C++ Style Guide, Swift Style Guide, Objective-C Style Guide, Java Style Guide, Python Style Guide, R Style Guide, Shell Style Guide, HTML/CSS Style Guide, JavaScript Style Guide, AngularJS Style Guide, Common Lisp Style Guide, and Vimscript Style Guide",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35969061,
+                "language": "HTML",
+                "last_commit": "2026-06-03T15:51:23Z",
+                "owner": "google",
+                "repo": "styleguide",
+                "stars": 39514
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Django Styleguide",
+              "description": "Django styleguide used in HackSoft projects",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142351241,
+                "language": "Python",
+                "last_commit": "2025-09-25T11:25:18Z",
+                "owner": "HackSoftware",
+                "repo": "Django-Styleguide",
+                "stars": 6276
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-04-25T00:28:44Z",
-            "owner": "luk4z7",
-            "repo": "go-concurrency-guide",
-            "stars": 2879
-          }
+          "node_type": "group",
+          "title": "Style Guides"
         },
         {
-          "node_type": "item",
-          "title": ".NET Memory Performance Analysis",
-          "description": "This document aims to help folks who develop applications in .NET with how to think about memory performance analysis and finding the right approaches to perform such analysis if they need to. In this context .NET includes .NET Framework and .NET Core. In order to get the latest memory improvements in both the garbage collector and the rest of the framework I strongly encourage you to be on .NET Core if you are not already, because that’s where the active development happens",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-02-18T21:06:03Z",
-            "owner": "Maoni0",
-            "repo": "mem-doc",
-            "stars": 1959
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "codemaid",
+              "description": "open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22008449,
+                "language": "C#",
+                "last_commit": "2025-10-13T14:27:40Z",
+                "owner": "codecadwallader",
+                "repo": "codemaid",
+                "stars": 1984
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sharpen",
+              "description": "Visual Studio extension that intelligently introduces new C# features into your existing code base",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107457590,
+                "language": "C#",
+                "last_commit": "2022-12-08T09:43:38Z",
+                "owner": "sharpenrocks",
+                "repo": "Sharpen",
+                "stars": 413
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tslint-clean-code",
+              "description": "TSLint rules for enforcing Clean Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100136285,
+                "language": "TypeScript",
+                "last_commit": "2023-01-11T00:03:05Z",
+                "owner": "Glavin001",
+                "repo": "tslint-clean-code",
+                "stars": 175
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Modern JavaScript Cheatsheet",
+              "description": "Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103953059,
+                "language": null,
+                "last_commit": "2024-10-15T14:33:12Z",
+                "owner": "mbeaudru",
+                "repo": "modern-js-cheatsheet",
+                "stars": 25613
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "naming-cheatsheet",
+              "description": "Comprehensive language-agnostic guidelines on variables naming",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95863194,
+                "language": null,
+                "last_commit": "2024-03-13T22:39:17Z",
+                "owner": "kettanaito",
+                "repo": "naming-cheatsheet",
+                "stars": 14182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cognitive Load In Software Development",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 642858415,
+                "language": null,
+                "last_commit": "2026-06-29T17:36:29Z",
+                "owner": "zakirullin",
+                "repo": "cognitive-load",
+                "stars": 12481
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AspNetCoreDiagnosticScenarios",
+              "description": "Examples of broken patterns in ASP.NET Core applications",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152370823,
+                "language": "C#",
+                "last_commit": "2024-05-28T16:50:09Z",
+                "owner": "davidfowl",
+                "repo": "AspNetCoreDiagnosticScenarios",
+                "stars": 8509
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go Concurrency Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 430430380,
+                "language": "Go",
+                "last_commit": "2023-04-25T00:28:44Z",
+                "owner": "luk4z7",
+                "repo": "go-concurrency-guide",
+                "stars": 2879
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ".NET Memory Performance Analysis",
+              "description": "This document aims to help folks who develop applications in .NET with how to think about memory performance analysis and finding the right approaches to perform such analysis if they need to. In this context .NET includes .NET Framework and .NET Core. In order to get the latest memory improvements in both the garbage collector and the rest of the framework I strongly encourage you to be on .NET Core if you are not already, because that’s where the active development happens",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293382014,
+                "language": null,
+                "last_commit": "2024-02-18T21:06:03Z",
+                "owner": "Maoni0",
+                "repo": "mem-doc",
+                "stars": 1960
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cheatsheets"
         }
       ],
-      "title": "Cheatsheets"
+      "title": "Other Clean Code Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:54:09.878Z",
+    "last_updated": "2026-08-19T12:24:12.872Z",
     "original_repository": "thangchung/clean-code-dotnet",
+    "original_repository_id": 103086697,
     "original_repository_sha": "a604cf99e618de359cf34c5384a16fe72a5db2f4",
     "enhanced_repository": "enhansome/enhansome-clean-code-dotnet",
     "enhanced_repository_description": null,
