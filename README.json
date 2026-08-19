@@ -107,7 +107,7 @@
                 "last_commit": "2026-04-02T14:34:35Z",
                 "owner": "SAP",
                 "repo": "styleguides",
-                "stars": 1992
+                "stars": 1993
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-06-15T11:41:04Z",
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105589
+                "stars": 105588
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2024-10-15T14:33:12Z",
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25613
+                "stars": 25611
               }
             },
             {
@@ -323,7 +323,7 @@
                 "last_commit": "2024-05-28T16:50:09Z",
                 "owner": "davidfowl",
                 "repo": "AspNetCoreDiagnosticScenarios",
-                "stars": 8509
+                "stars": 8508
               }
             },
             {
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:24:12.872Z",
+    "last_updated": "2026-08-19T18:51:14.510Z",
     "original_repository": "thangchung/clean-code-dotnet",
     "original_repository_id": 103086697,
     "original_repository_sha": "a604cf99e618de359cf34c5384a16fe72a5db2f4",
