@@ -17,7 +17,7 @@
                 "last_commit": "2024-07-29T07:24:37Z",
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94758
+                "stars": 94759
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-07-01T14:56:36Z",
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9798
+                "stars": 9800
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-04-02T14:34:35Z",
                 "owner": "SAP",
                 "repo": "styleguides",
-                "stars": 1993
+                "stars": 1994
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-06-15T11:41:04Z",
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105588
+                "stars": 105590
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2025-09-25T11:25:18Z",
                 "owner": "HackSoftware",
                 "repo": "Django-Styleguide",
-                "stars": 6276
+                "stars": 6278
               }
             }
           ],
@@ -278,7 +278,7 @@
                 "last_commit": "2024-10-15T14:33:12Z",
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25611
+                "stars": 25612
               }
             },
             {
@@ -293,7 +293,7 @@
                 "last_commit": "2024-03-13T22:39:17Z",
                 "owner": "kettanaito",
                 "repo": "naming-cheatsheet",
-                "stars": 14182
+                "stars": 14183
               }
             },
             {
@@ -308,7 +308,7 @@
                 "last_commit": "2026-06-29T17:36:29Z",
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12481
+                "stars": 12483
               }
             },
             {
@@ -323,7 +323,7 @@
                 "last_commit": "2024-05-28T16:50:09Z",
                 "owner": "davidfowl",
                 "repo": "AspNetCoreDiagnosticScenarios",
-                "stars": 8508
+                "stars": 8506
               }
             },
             {
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T18:51:14.510Z",
+    "last_updated": "2026-08-20T18:56:23.314Z",
     "original_repository": "thangchung/clean-code-dotnet",
     "original_repository_id": 103086697,
     "original_repository_sha": "a604cf99e618de359cf34c5384a16fe72a5db2f4",
