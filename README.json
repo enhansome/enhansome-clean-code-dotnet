@@ -17,7 +17,7 @@
                 "last_commit": "2024-07-29T07:24:37Z",
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94759
+                "stars": 94763
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-07-01T14:56:36Z",
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9800
+                "stars": 9801
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2023-01-31T15:24:34Z",
                 "owner": "Pungyeon",
                 "repo": "clean-go-article",
-                "stars": 3088
+                "stars": 3089
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-04-02T14:34:35Z",
                 "owner": "SAP",
                 "repo": "styleguides",
-                "stars": 1994
+                "stars": 1996
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2024-09-12T20:04:42Z",
                 "owner": "lucasvegi",
                 "repo": "Elixir-Code-Smells",
-                "stars": 1513
+                "stars": 1514
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-06-15T11:41:04Z",
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105590
+                "stars": 105595
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-06-03T15:51:23Z",
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39514
+                "stars": 39520
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2024-10-15T14:33:12Z",
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25612
+                "stars": 25614
               }
             },
             {
@@ -293,7 +293,7 @@
                 "last_commit": "2024-03-13T22:39:17Z",
                 "owner": "kettanaito",
                 "repo": "naming-cheatsheet",
-                "stars": 14183
+                "stars": 14184
               }
             },
             {
@@ -308,7 +308,7 @@
                 "last_commit": "2026-06-29T17:36:29Z",
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12483
+                "stars": 12482
               }
             },
             {
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T18:56:23.314Z",
+    "last_updated": "2026-08-21T18:53:08.912Z",
     "original_repository": "thangchung/clean-code-dotnet",
     "original_repository_id": 103086697,
     "original_repository_sha": "a604cf99e618de359cf34c5384a16fe72a5db2f4",
