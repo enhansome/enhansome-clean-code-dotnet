@@ -17,7 +17,7 @@
                 "last_commit": "2024-07-29T07:24:37Z",
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94765
+                "stars": 94764
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-06-30T07:21:35Z",
                 "owner": "webpro",
                 "repo": "programming-principles",
-                "stars": 3094
+                "stars": 3095
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2023-01-31T15:24:34Z",
                 "owner": "Pungyeon",
                 "repo": "clean-go-article",
-                "stars": 3089
+                "stars": 3090
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-06-03T15:51:23Z",
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39523
+                "stars": 39524
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2024-10-15T14:33:12Z",
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25614
+                "stars": 25613
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2023-04-25T00:28:44Z",
                 "owner": "luk4z7",
                 "repo": "go-concurrency-guide",
-                "stars": 2879
+                "stars": 2881
               }
             },
             {
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T18:47:08.097Z",
+    "last_updated": "2026-08-23T18:46:33.758Z",
     "original_repository": "thangchung/clean-code-dotnet",
     "original_repository_id": 103086697,
     "original_repository_sha": "a604cf99e618de359cf34c5384a16fe72a5db2f4",
