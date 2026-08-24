@@ -17,7 +17,7 @@
                 "last_commit": "2024-07-29T07:24:37Z",
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94764
+                "stars": 94766
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-05-09T12:52:01Z",
                 "owner": "piotrplenik",
                 "repo": "clean-code-php",
-                "stars": 12446
+                "stars": 12447
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-07-01T14:56:36Z",
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9800
+                "stars": 9801
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2023-01-31T15:24:34Z",
                 "owner": "Pungyeon",
                 "repo": "clean-go-article",
-                "stars": 3090
+                "stars": 3091
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-06-15T11:41:04Z",
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105599
+                "stars": 105600
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-06-03T15:51:23Z",
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39524
+                "stars": 39526
               }
             },
             {
@@ -293,7 +293,7 @@
                 "last_commit": "2024-03-13T22:39:17Z",
                 "owner": "kettanaito",
                 "repo": "naming-cheatsheet",
-                "stars": 14184
+                "stars": 14185
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2023-04-25T00:28:44Z",
                 "owner": "luk4z7",
                 "repo": "go-concurrency-guide",
-                "stars": 2881
+                "stars": 2882
               }
             },
             {
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:46:33.758Z",
+    "last_updated": "2026-08-24T13:53:54.704Z",
     "original_repository": "thangchung/clean-code-dotnet",
     "original_repository_id": 103086697,
     "original_repository_sha": "a604cf99e618de359cf34c5384a16fe72a5db2f4",
