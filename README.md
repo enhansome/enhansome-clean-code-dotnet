@@ -39,7 +39,7 @@ Software engineering principles, from Robert C. Martin's book [*Clean Code*](htt
 
 Not every principle herein has to be strictly followed, and even fewer will be universally agreed upon. These are guidelines and nothing more, but they are ones codified over many years of collective experience by the authors of *Clean Code*.
 
-Inspired from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,766 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29 and [clean-code-php](https://github.com/jupeter/clean-code-php) ⭐ 12,447 | 🐛 30 | 🌐 PHP | 📅 2024-05-09 lists.
+Inspired from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,764 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29 and [clean-code-php](https://github.com/jupeter/clean-code-php) ⭐ 12,447 | 🐛 30 | 🌐 PHP | 📅 2024-05-09 lists.
 
 # Clean Code .NET
 
@@ -2403,7 +2403,7 @@ public List<EmployeeData> ShowList(Employee employees)
 Testing is more important than shipping. If you have no tests or an
 inadequate amount, then every time you ship code you won't be sure that you didn't break anything. Deciding on what constitutes an adequate amount is up to your team, but having 100% coverage (all statements and branches) is how you achieve very high confidence and developer peace of mind. This means that in addition to having a great testing framework, you also need to use a [good coverage tool](https://docs.microsoft.com/en-us/visualstudio/test/using-code-coverage-to-determine-how-much-code-is-being-tested).
 
-There's no excuse to not write tests. There's [plenty of good .NET test frameworks](https://github.com/thangchung/awesome-dotnet-core#testing) ⭐ 21,368 | 🐛 211 | 🌐 C# | 📅 2026-02-27, so find one that your team prefers. When you find one that works for your team, then aim to always write tests for every new feature/module you introduce. If your preferred method is Test Driven Development (TDD), that is great, but the main point is to just make sure you are reaching your coverage goals before launching any feature, or refactoring an existing one.
+There's no excuse to not write tests. There's [plenty of good .NET test frameworks](https://github.com/thangchung/awesome-dotnet-core#testing) ⭐ 21,370 | 🐛 211 | 🌐 C# | 📅 2026-02-27, so find one that your team prefers. When you find one that works for your team, then aim to always write tests for every new feature/module you introduce. If your preferred method is Test Driven Development (TDD), that is great, but the main point is to just make sure you are reaching your coverage goals before launching any feature, or refactoring an existing one.
 
 </details>
 
@@ -3122,21 +3122,21 @@ private int ConvertTo32BitInt(int value)
 
 ## Other Clean Code Lists
 
-* [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,766 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29 - Clean Code concepts adapted for JavaScript
+* [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,764 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29 - Clean Code concepts adapted for JavaScript
 * [clean-code-php](https://github.com/jupeter/clean-code-php) ⭐ 12,447 | 🐛 30 | 🌐 PHP | 📅 2024-05-09 - Clean Code concepts adapted for PHP
 * [clean-code-typescript](https://github.com/labs42io/clean-code-typescript) ⭐ 9,801 | 🐛 3 | 🌐 TypeScript | 📅 2025-07-01 - Clean Code concepts adapted for TypeScript
 * [clean-code-python](https://github.com/zedr/clean-code-python) ⭐ 4,836 | 🐛 5 | 🌐 Python | 📅 2023-06-10 - Clean Code concepts adapted for Python
 * [programming-principles](https://github.com/webpro/programming-principles) ⭐ 3,095 | 🐛 0 | 📅 2026-06-30 - Categorized overview of Programming Principles & Patterns
 * [clean-go-article](https://github.com/Pungyeon/clean-go-article) ⭐ 3,091 | 🐛 8 | 📅 2023-01-31 - Clean Code concepts adapted for Golang and an example how to apply [clean code in Golang](https://github.com/Pungyeon/clean-go) ⭐ 141 | 🐛 0 | 🌐 Go | 📅 2020-02-03
 * [clean-abap](https://github.com/SAP/styleguides) ⭐ 1,996 | 🐛 79 | 🌐 Markdown | 📅 2026-04-02 - Clean Code concepts adapted for ABAP
-* [clean-code-ruby](https://github.com/uohzxela/clean-code-ruby) ⭐ 1,596 | 🐛 7 | 🌐 Ruby | 📅 2022-09-10 - Clean Code concepts adapted for Ruby
+* [clean-code-ruby](https://github.com/uohzxela/clean-code-ruby) ⭐ 1,597 | 🐛 7 | 🌐 Ruby | 📅 2022-09-10 - Clean Code concepts adapted for Ruby
 * [Elixir-Code-Smells](https://github.com/lucasvegi/Elixir-Code-Smells) ⭐ 1,514 | 🐛 1 | 🌐 Elixir | 📅 2024-09-12 - Catalog of Elixir-specific code smells
 * [awesome-clean-code](https://github.com/kkisiele/awesome-clean-code) ⭐ 121 | 🐛 0 | 📅 2023-03-20 - Design principles, featured articles, tutorials, videos, code examples, blogs and books
 
 ## Style Guides
 
-* [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) ⭐ 105,600 | 🐛 138 | 🌐 Dockerfile | 📅 2026-06-15 - The Node.js best practices list
-* [Google Styleguides](https://github.com/google/styleguide) ⭐ 39,526 | 🐛 170 | 🌐 HTML | 📅 2026-06-03 - This project holds the C++ Style Guide, Swift Style Guide, Objective-C Style Guide, Java Style Guide, Python Style Guide, R Style Guide, Shell Style Guide, HTML/CSS Style Guide, JavaScript Style Guide, AngularJS Style Guide, Common Lisp Style Guide, and Vimscript Style Guide
+* [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) ⭐ 105,603 | 🐛 138 | 🌐 Dockerfile | 📅 2026-06-15 - The Node.js best practices list
+* [Google Styleguides](https://github.com/google/styleguide) ⭐ 39,528 | 🐛 170 | 🌐 HTML | 📅 2026-06-03 - This project holds the C++ Style Guide, Swift Style Guide, Objective-C Style Guide, Java Style Guide, Python Style Guide, R Style Guide, Shell Style Guide, HTML/CSS Style Guide, JavaScript Style Guide, AngularJS Style Guide, Common Lisp Style Guide, and Vimscript Style Guide
 * [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) ⭐ 6,278 | 🐛 5 | 🌐 Python | 📅 2025-09-25 - Django styleguide used in HackSoft projects
 
 ## Tools
@@ -3164,7 +3164,7 @@ private int ConvertTo32BitInt(int value)
 
 Thank you to all the people who have already contributed to `clean-code-dotnet` project
 
-[<img src="https://opencollective.com/cleancodedotnet/contributors.svg?width=890" title="contributors" alt="contributors" />](https://github.com/thangchung/clean-code-dotnet/graphs/contributors) ⭐ 7,726 | 🐛 46 | 🌐 C# | 📅 2026-02-27
+[<img src="https://opencollective.com/cleancodedotnet/contributors.svg?width=890" title="contributors" alt="contributors" />](https://github.com/thangchung/clean-code-dotnet/graphs/contributors) ⭐ 7,727 | 🐛 46 | 🌐 C# | 📅 2026-02-27
 
 # Backers
 

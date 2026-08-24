@@ -17,7 +17,7 @@
                 "last_commit": "2024-07-29T07:24:37Z",
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94766
+                "stars": 94764
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2022-09-10T02:38:29Z",
                 "owner": "uohzxela",
                 "repo": "clean-code-ruby",
-                "stars": 1596
+                "stars": 1597
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-06-15T11:41:04Z",
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105600
+                "stars": 105603
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-06-03T15:51:23Z",
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39526
+                "stars": 39528
               }
             },
             {
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:53:54.704Z",
+    "last_updated": "2026-08-24T18:56:49.333Z",
     "original_repository": "thangchung/clean-code-dotnet",
     "original_repository_id": 103086697,
     "original_repository_sha": "a604cf99e618de359cf34c5384a16fe72a5db2f4",
