@@ -174,7 +174,7 @@
                 "last_commit": "2026-06-15T11:41:04Z",
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105601
+                "stars": 105600
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-06-03T15:51:23Z",
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39531
+                "stars": 39529
               }
             },
             {
@@ -308,7 +308,7 @@
                 "last_commit": "2026-06-29T17:36:29Z",
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12484
+                "stars": 12487
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2023-04-25T00:28:44Z",
                 "owner": "luk4z7",
                 "repo": "go-concurrency-guide",
-                "stars": 2883
+                "stars": 2884
               }
             },
             {
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:45:48.852Z",
+    "last_updated": "2026-08-25T18:55:09.106Z",
     "original_repository": "thangchung/clean-code-dotnet",
     "original_repository_id": 103086697,
     "original_repository_sha": "a604cf99e618de359cf34c5384a16fe72a5db2f4",
