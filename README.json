@@ -17,7 +17,7 @@
                 "last_commit": "2024-07-29T07:24:37Z",
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94764
+                "stars": 94763
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-05-09T12:52:01Z",
                 "owner": "piotrplenik",
                 "repo": "clean-code-php",
-                "stars": 12447
+                "stars": 12448
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2023-06-10T14:49:36Z",
                 "owner": "zedr",
                 "repo": "clean-code-python",
-                "stars": 4836
+                "stars": 4835
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2023-01-31T15:24:34Z",
                 "owner": "Pungyeon",
                 "repo": "clean-go-article",
-                "stars": 3091
+                "stars": 3090
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-06-15T11:41:04Z",
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105603
+                "stars": 105601
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-06-03T15:51:23Z",
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39528
+                "stars": 39531
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2025-09-25T11:25:18Z",
                 "owner": "HackSoftware",
                 "repo": "Django-Styleguide",
-                "stars": 6278
+                "stars": 6279
               }
             }
           ],
@@ -338,7 +338,7 @@
                 "last_commit": "2023-04-25T00:28:44Z",
                 "owner": "luk4z7",
                 "repo": "go-concurrency-guide",
-                "stars": 2882
+                "stars": 2883
               }
             },
             {
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T18:56:49.333Z",
+    "last_updated": "2026-08-25T05:45:48.852Z",
     "original_repository": "thangchung/clean-code-dotnet",
     "original_repository_id": 103086697,
     "original_repository_sha": "a604cf99e618de359cf34c5384a16fe72a5db2f4",
