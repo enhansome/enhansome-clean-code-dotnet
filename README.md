@@ -39,7 +39,7 @@ Software engineering principles, from Robert C. Martin's book [*Clean Code*](htt
 
 Not every principle herein has to be strictly followed, and even fewer will be universally agreed upon. These are guidelines and nothing more, but they are ones codified over many years of collective experience by the authors of *Clean Code*.
 
-Inspired from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,765 | 🐛 124 | 🌐 JavaScript | 📅 2024-07-29 and [clean-code-php](https://github.com/jupeter/clean-code-php) ⭐ 12,449 | 🐛 30 | 🌐 PHP | 📅 2024-05-09 lists.
+Inspired from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,767 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29 and [clean-code-php](https://github.com/jupeter/clean-code-php) ⭐ 12,449 | 🐛 30 | 🌐 PHP | 📅 2024-05-09 lists.
 
 # Clean Code .NET
 
@@ -3122,11 +3122,11 @@ private int ConvertTo32BitInt(int value)
 
 ## Other Clean Code Lists
 
-* [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,765 | 🐛 124 | 🌐 JavaScript | 📅 2024-07-29 - Clean Code concepts adapted for JavaScript
+* [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,767 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29 - Clean Code concepts adapted for JavaScript
 * [clean-code-php](https://github.com/jupeter/clean-code-php) ⭐ 12,449 | 🐛 30 | 🌐 PHP | 📅 2024-05-09 - Clean Code concepts adapted for PHP
-* [clean-code-typescript](https://github.com/labs42io/clean-code-typescript) ⭐ 9,802 | 🐛 3 | 🌐 TypeScript | 📅 2025-07-01 - Clean Code concepts adapted for TypeScript
+* [clean-code-typescript](https://github.com/labs42io/clean-code-typescript) ⭐ 9,803 | 🐛 3 | 🌐 TypeScript | 📅 2025-07-01 - Clean Code concepts adapted for TypeScript
 * [clean-code-python](https://github.com/zedr/clean-code-python) ⭐ 4,835 | 🐛 5 | 🌐 Python | 📅 2023-06-10 - Clean Code concepts adapted for Python
-* [programming-principles](https://github.com/webpro/programming-principles) ⭐ 3,095 | 🐛 0 | 📅 2026-06-30 - Categorized overview of Programming Principles & Patterns
+* [programming-principles](https://github.com/webpro/programming-principles) ⭐ 3,094 | 🐛 0 | 📅 2026-06-30 - Categorized overview of Programming Principles & Patterns
 * [clean-go-article](https://github.com/Pungyeon/clean-go-article) ⭐ 3,090 | 🐛 8 | 📅 2023-01-31 - Clean Code concepts adapted for Golang and an example how to apply [clean code in Golang](https://github.com/Pungyeon/clean-go) ⭐ 141 | 🐛 0 | 🌐 Go | 📅 2020-02-03
 * [clean-abap](https://github.com/SAP/styleguides) ⭐ 1,998 | 🐛 79 | 🌐 Markdown | 📅 2026-04-02 - Clean Code concepts adapted for ABAP
 * [clean-code-ruby](https://github.com/uohzxela/clean-code-ruby) ⭐ 1,597 | 🐛 7 | 🌐 Ruby | 📅 2022-09-10 - Clean Code concepts adapted for Ruby
@@ -3135,13 +3135,13 @@ private int ConvertTo32BitInt(int value)
 
 ## Style Guides
 
-* [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) ⭐ 105,599 | 🐛 139 | 🌐 Dockerfile | 📅 2026-06-15 - The Node.js best practices list
-* [Google Styleguides](https://github.com/google/styleguide) ⭐ 39,536 | 🐛 170 | 🌐 HTML | 📅 2026-06-03 - This project holds the C++ Style Guide, Swift Style Guide, Objective-C Style Guide, Java Style Guide, Python Style Guide, R Style Guide, Shell Style Guide, HTML/CSS Style Guide, JavaScript Style Guide, AngularJS Style Guide, Common Lisp Style Guide, and Vimscript Style Guide
-* [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) ⭐ 6,282 | 🐛 5 | 🌐 Python | 📅 2025-09-25 - Django styleguide used in HackSoft projects
+* [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) ⭐ 105,602 | 🐛 137 | 🌐 Dockerfile | 📅 2026-06-15 - The Node.js best practices list
+* [Google Styleguides](https://github.com/google/styleguide) ⭐ 39,543 | 🐛 170 | 🌐 HTML | 📅 2026-06-03 - This project holds the C++ Style Guide, Swift Style Guide, Objective-C Style Guide, Java Style Guide, Python Style Guide, R Style Guide, Shell Style Guide, HTML/CSS Style Guide, JavaScript Style Guide, AngularJS Style Guide, Common Lisp Style Guide, and Vimscript Style Guide
+* [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) ⭐ 6,283 | 🐛 5 | 🌐 Python | 📅 2025-09-25 - Django styleguide used in HackSoft projects
 
 ## Tools
 
-* [codemaid](https://github.com/codecadwallader/codemaid) ⭐ 1,984 | 🐛 507 | 🌐 C# | 📅 2025-10-13 - open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding
+* [codemaid](https://github.com/codecadwallader/codemaid) ⭐ 1,985 | 🐛 507 | 🌐 C# | 📅 2025-10-13 - open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding
 * [Sharpen](https://github.com/sharpenrocks/Sharpen) ⭐ 412 | 🐛 14 | 🌐 C# | 📅 2022-12-08 - Visual Studio extension that intelligently introduces new C# features into your existing code base
 * [tslint-clean-code](https://github.com/Glavin001/tslint-clean-code) ⭐ 175 | 🐛 34 | 🌐 TypeScript | 📅 2023-01-11 - TSLint rules for enforcing Clean Code
 
@@ -3152,7 +3152,7 @@ private int ConvertTo32BitInt(int value)
 * [Cognitive Load In Software Development](https://github.com/zakirullin/cognitive-load) ⭐ 12,490 | 🐛 23 | 📅 2026-06-29
 * [AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios) ⭐ 8,505 | 🐛 27 | 🌐 C# | 📅 2024-05-28 - Examples of broken patterns in ASP.NET Core applications
 * [Go Concurrency Guide](https://github.com/luk4z7/go-concurrency-guide) ⭐ 2,884 | 🐛 1 | 🌐 Go | 📅 2023-04-25
-* [.NET Memory Performance Analysis](https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md) ⭐ 1,960 | 🐛 2 | 📅 2024-02-18 - This document aims to help folks who develop applications in .NET with how to think about memory performance analysis and finding the right approaches to perform such analysis if they need to. In this context .NET includes .NET Framework and .NET Core. In order to get the latest memory improvements in both the garbage collector and the rest of the framework I strongly encourage you to be on .NET Core if you are not already, because that’s where the active development happens
+* [.NET Memory Performance Analysis](https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md) ⭐ 1,961 | 🐛 2 | 📅 2024-02-18 - This document aims to help folks who develop applications in .NET with how to think about memory performance analysis and finding the right approaches to perform such analysis if they need to. In this context .NET includes .NET Framework and .NET Core. In order to get the latest memory improvements in both the garbage collector and the rest of the framework I strongly encourage you to be on .NET Core if you are not already, because that’s where the active development happens
 * [Clean Code](cheatsheets/Clean-Code-V2.4.pdf) - The summary of [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/dp/0132350882) book
 * [Clean Architecture](cheatsheets/Clean-Architecture-V1.0.pdf) - The summary of [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/dp/0134494164) book
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org) - Cheatsheet was created to provide a concise collection of high value information on specific application security topics
@@ -3186,4 +3186,4 @@ To the extent possible under law, [thangchung](https://github.com/thangchung) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
