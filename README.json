@@ -17,7 +17,7 @@
                 "last_commit": "2024-07-29T07:24:37Z",
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94767
+                "stars": 94771
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-07-01T14:56:36Z",
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9803
+                "stars": 9804
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-06-30T07:21:35Z",
                 "owner": "webpro",
                 "repo": "programming-principles",
-                "stars": 3094
+                "stars": 3095
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-04-02T14:34:35Z",
                 "owner": "SAP",
                 "repo": "styleguides",
-                "stars": 1998
+                "stars": 1999
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-06-15T11:41:04Z",
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105602
+                "stars": 105606
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-06-03T15:51:23Z",
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39543
+                "stars": 39545
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2025-09-25T11:25:18Z",
                 "owner": "HackSoftware",
                 "repo": "Django-Styleguide",
-                "stars": 6283
+                "stars": 6284
               }
             }
           ],
@@ -278,7 +278,7 @@
                 "last_commit": "2024-10-15T14:33:12Z",
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25612
+                "stars": 25611
               }
             },
             {
@@ -293,7 +293,7 @@
                 "last_commit": "2024-03-13T22:39:17Z",
                 "owner": "kettanaito",
                 "repo": "naming-cheatsheet",
-                "stars": 14186
+                "stars": 14188
               }
             },
             {
@@ -308,7 +308,7 @@
                 "last_commit": "2026-06-29T17:36:29Z",
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12490
+                "stars": 12489
               }
             },
             {
@@ -323,7 +323,7 @@
                 "last_commit": "2024-05-28T16:50:09Z",
                 "owner": "davidfowl",
                 "repo": "AspNetCoreDiagnosticScenarios",
-                "stars": 8505
+                "stars": 8504
               }
             },
             {
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:29:04.069Z",
+    "last_updated": "2026-08-28T02:09:24.201Z",
     "original_repository_info": {
       "archived": false,
       "id": 103086697,
