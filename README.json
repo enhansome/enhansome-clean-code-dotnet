@@ -17,8 +17,9 @@
                 "last_commit": "2024-07-29T07:24:37Z",
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94771
-              }
+                "stars": 94766
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "piotrplenik",
                 "repo": "clean-code-php",
                 "stars": 12449
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2025-07-01T14:56:36Z",
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9804
-              }
+                "stars": 9805
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2023-06-10T14:49:36Z",
                 "owner": "zedr",
                 "repo": "clean-code-python",
-                "stars": 4835
-              }
+                "stars": 4837
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "webpro",
                 "repo": "programming-principles",
                 "stars": 3095
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             },
             {
               "node_type": "item",
@@ -92,8 +97,9 @@
                 "last_commit": "2023-01-31T15:24:34Z",
                 "owner": "Pungyeon",
                 "repo": "clean-go-article",
-                "stars": 3090
-              }
+                "stars": 3091
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "SAP",
                 "repo": "styleguides",
                 "stars": 1999
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "uohzxela",
                 "repo": "clean-code-ruby",
                 "stars": 1597
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "lucasvegi",
                 "repo": "Elixir-Code-Smells",
                 "stars": 1514
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "kkisiele",
                 "repo": "awesome-clean-code",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             }
           ],
           "description": null,
@@ -174,8 +184,9 @@
                 "last_commit": "2026-06-15T11:41:04Z",
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105606
-              }
+                "stars": 105605
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             },
             {
               "node_type": "item",
@@ -189,8 +200,9 @@
                 "last_commit": "2026-06-03T15:51:23Z",
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39545
-              }
+                "stars": 39549
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             },
             {
               "node_type": "item",
@@ -204,8 +216,9 @@
                 "last_commit": "2025-09-25T11:25:18Z",
                 "owner": "HackSoftware",
                 "repo": "Django-Styleguide",
-                "stars": 6284
-              }
+                "stars": 6286
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             }
           ],
           "description": null,
@@ -227,7 +240,8 @@
                 "owner": "codecadwallader",
                 "repo": "codemaid",
                 "stars": 1985
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             },
             {
               "node_type": "item",
@@ -242,7 +256,8 @@
                 "owner": "sharpenrocks",
                 "repo": "Sharpen",
                 "stars": 412
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "Glavin001",
                 "repo": "tslint-clean-code",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             }
           ],
           "description": null,
@@ -279,7 +295,8 @@
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
                 "stars": 25611
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             },
             {
               "node_type": "item",
@@ -293,8 +310,9 @@
                 "last_commit": "2024-03-13T22:39:17Z",
                 "owner": "kettanaito",
                 "repo": "naming-cheatsheet",
-                "stars": 14188
-              }
+                "stars": 14187
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             },
             {
               "node_type": "item",
@@ -308,8 +326,9 @@
                 "last_commit": "2026-06-29T17:36:29Z",
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12489
-              }
+                "stars": 12492
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             },
             {
               "node_type": "item",
@@ -324,7 +343,8 @@
                 "owner": "davidfowl",
                 "repo": "AspNetCoreDiagnosticScenarios",
                 "stars": 8504
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             },
             {
               "node_type": "item",
@@ -338,8 +358,9 @@
                 "last_commit": "2023-04-25T00:28:44Z",
                 "owner": "luk4z7",
                 "repo": "go-concurrency-guide",
-                "stars": 2884
-              }
+                "stars": 2885
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             },
             {
               "node_type": "item",
@@ -354,7 +375,8 @@
                 "owner": "Maoni0",
                 "repo": "mem-doc",
                 "stars": 1961
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.935Z"
             }
           ],
           "description": null,
@@ -366,7 +388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:09:24.201Z",
+    "last_updated": "2026-08-29T01:44:06.935Z",
     "original_repository_info": {
       "archived": false,
       "id": 103086697,
@@ -374,7 +396,7 @@
       "last_commit": "2026-02-27T03:58:00Z",
       "owner": "thangchung",
       "repo": "clean-code-dotnet",
-      "stars": 7725
+      "stars": 7726
     },
     "original_repository_sha": "a604cf99e618de359cf34c5384a16fe72a5db2f4",
     "enhanced_repository": "enhansome/enhansome-clean-code-dotnet",
