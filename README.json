@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clean Code concepts adapted for JavaScript",
+                "homepage": null,
                 "id": 74791366,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-07-29T07:24:37Z",
+                "open_issues": 123,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94766
+                "stars": 94767,
+                "topics": [
+                  "best-practices",
+                  "clean-architecture",
+                  "clean-code",
+                  "composition",
+                  "inheritance",
+                  "javascript",
+                  "principles"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             },
@@ -28,12 +41,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":bathtub: Clean Code concepts adapted for PHP",
+                "homepage": null,
                 "id": 79111500,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-05-09T12:52:01Z",
+                "open_issues": 30,
                 "owner": "piotrplenik",
                 "repo": "clean-code-php",
-                "stars": 12449
+                "stars": 12449,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             },
@@ -44,12 +62,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clean Code concepts adapted for TypeScript",
+                "homepage": "https://labs42io.github.io/clean-code-typescript",
                 "id": 167032345,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-07-01T14:56:36Z",
+                "open_issues": 3,
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9805
+                "stars": 9805,
+                "topics": [
+                  "best-practices",
+                  "clean-architecture",
+                  "clean-code",
+                  "coding-guidelines",
+                  "principles",
+                  "solid",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             },
@@ -60,12 +91,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":bathtub: Clean Code concepts adapted for Python",
+                "homepage": null,
                 "id": 102487700,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-10T14:49:36Z",
+                "open_issues": 5,
                 "owner": "zedr",
                 "repo": "clean-code-python",
-                "stars": 4837
+                "stars": 4837,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             },
@@ -76,12 +112,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Categorized overview of programming principles & design patterns",
+                "homepage": "https://github.com/webpro/programming-principles",
                 "id": 25708683,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-30T07:21:35Z",
+                "open_issues": 0,
                 "owner": "webpro",
                 "repo": "programming-principles",
-                "stars": 3095
+                "stars": 3095,
+                "topics": [
+                  "architectural-patterns",
+                  "design-patterns",
+                  "programming-principles"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             },
@@ -92,12 +137,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A reference for the Go community that covers the fundamentals of writing clean code and discusses concrete refactoring examples specific to Go.",
+                "homepage": null,
                 "id": 192071673,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-01-31T15:24:34Z",
+                "open_issues": 8,
                 "owner": "Pungyeon",
                 "repo": "clean-go-article",
-                "stars": 3091
+                "stars": 3091,
+                "topics": [
+                  "clean-code",
+                  "coding-guidelines",
+                  "go",
+                  "golang",
+                  "software-crafters",
+                  "style-guide"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             },
@@ -108,12 +165,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository provides SAP style guides for coding and coding-related topics.",
+                "homepage": null,
                 "id": 183526229,
                 "language": "Markdown",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-02T14:34:35Z",
+                "open_issues": 79,
                 "owner": "SAP",
                 "repo": "styleguides",
-                "stars": 1999
+                "stars": 1999,
+                "topics": [
+                  "abap"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             },
@@ -124,12 +188,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛁 Clean Code concepts adapted for Ruby",
+                "homepage": null,
                 "id": 102773976,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2022-09-10T02:38:29Z",
+                "open_issues": 7,
                 "owner": "uohzxela",
                 "repo": "clean-code-ruby",
-                "stars": 1597
+                "stars": 1597,
+                "topics": [
+                  "best-practices",
+                  "clean-code",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             },
@@ -140,12 +213,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Catalog of Elixir-specific code smells",
+                "homepage": "https://doi.org/10.1007/s10664-023-10343-6",
                 "id": 459650085,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2024-09-12T20:04:42Z",
+                "open_issues": 1,
                 "owner": "lucasvegi",
                 "repo": "Elixir-Code-Smells",
-                "stars": 1514
+                "stars": 1514,
+                "topics": [
+                  "code-smells",
+                  "elixir",
+                  "elixir-examples",
+                  "elixir-lang",
+                  "software-quality"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             },
@@ -156,12 +240,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 129794252,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-03-20T19:19:42Z",
+                "open_issues": 0,
                 "owner": "kkisiele",
                 "repo": "awesome-clean-code",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "cleancode",
+                  "ood",
+                  "oop"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             }
@@ -179,12 +274,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✅ The Node.js best practices list (July 2026)",
+                "homepage": "https://twitter.com/nodepractices/",
                 "id": 103633984,
                 "language": "Dockerfile",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-06-15T11:41:04Z",
+                "open_issues": 137,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105605
+                "stars": 105605,
+                "topics": [
+                  "best-practices",
+                  "es6",
+                  "eslint",
+                  "express",
+                  "expressjs",
+                  "javascript",
+                  "jest",
+                  "microservices",
+                  "mocha",
+                  "node-js",
+                  "nodejs",
+                  "nodejs-development",
+                  "npm",
+                  "rest",
+                  "style-guide",
+                  "styleguide",
+                  "testing",
+                  "types"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             },
@@ -195,12 +314,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Style guides for Google-originated open-source projects",
+                "homepage": "https://google.github.io/styleguide/",
                 "id": 35969061,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-03T15:51:23Z",
+                "open_issues": 170,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39549
+                "stars": 39549,
+                "topics": [
+                  "cpplint",
+                  "style-guide",
+                  "styleguide"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             },
@@ -211,12 +339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Django styleguide used in HackSoft projects",
+                "homepage": null,
                 "id": 142351241,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-25T11:25:18Z",
+                "open_issues": 5,
                 "owner": "HackSoftware",
                 "repo": "Django-Styleguide",
-                "stars": 6286
+                "stars": 6286,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             }
@@ -234,12 +367,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.",
+                "homepage": "http://www.codemaid.net",
                 "id": 22008449,
                 "language": "C#",
+                "license": "LGPL-3.0",
                 "last_commit": "2025-10-13T14:27:40Z",
+                "open_issues": 507,
                 "owner": "codecadwallader",
                 "repo": "codemaid",
-                "stars": 1985
+                "stars": 1985,
+                "topics": [
+                  "c-sharp",
+                  "clean-code",
+                  "dotnet",
+                  "visual-studio",
+                  "vsix"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             },
@@ -250,12 +394,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual Studio extension that intelligently introduces new C# features into your existing codebase",
+                "homepage": "https://sharpen.rocks",
                 "id": 107457590,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2022-12-08T09:43:38Z",
+                "open_issues": 14,
                 "owner": "sharpenrocks",
                 "repo": "Sharpen",
-                "stars": 412
+                "stars": 412,
+                "topics": [
+                  "csharp3",
+                  "csharp5",
+                  "csharp6",
+                  "csharp7",
+                  "csharp8",
+                  "hacktoberfest",
+                  "language-features",
+                  "refactoring",
+                  "refactoring-plugin",
+                  "sharpen",
+                  "static-code-analysis",
+                  "visual-studio-extension"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             },
@@ -266,12 +428,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TSLint rules for enforcing Clean Code",
+                "homepage": "https://www.npmjs.com/package/tslint-clean-code",
                 "id": 100136285,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-11T00:03:05Z",
+                "open_issues": 34,
                 "owner": "Glavin001",
                 "repo": "tslint-clean-code",
-                "stars": 175
+                "stars": 175,
+                "topics": [
+                  "clean-code",
+                  "tslint-rules",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             }
@@ -289,12 +460,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.",
+                "homepage": "https://mbeaudru.github.io/modern-js-cheatsheet/",
                 "id": 103953059,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-10-15T14:33:12Z",
+                "open_issues": 10,
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25611
+                "stars": 25611,
+                "topics": [
+                  "es6",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             },
@@ -305,12 +484,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.",
+                "homepage": null,
                 "id": 95863194,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-03-13T22:39:17Z",
+                "open_issues": 21,
                 "owner": "kettanaito",
                 "repo": "naming-cheatsheet",
-                "stars": 14187
+                "stars": 14187,
+                "topics": [
+                  "action",
+                  "cheatsheet",
+                  "guideline",
+                  "guidelines",
+                  "high-context",
+                  "low-context",
+                  "naming",
+                  "naming-cheatsheet",
+                  "naming-conventions",
+                  "naming-pattern",
+                  "naming-schemes",
+                  "pattern",
+                  "prefix",
+                  "variables"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             },
@@ -321,12 +520,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧠 Cognitive load is what matters",
+                "homepage": null,
                 "id": 642858415,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-06-29T17:36:29Z",
+                "open_issues": 23,
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12492
+                "stars": 12493,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             },
@@ -337,12 +541,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository has examples of broken patterns in ASP.NET Core applications",
+                "homepage": null,
                 "id": 152370823,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2024-05-28T16:50:09Z",
+                "open_issues": 27,
                 "owner": "davidfowl",
                 "repo": "AspNetCoreDiagnosticScenarios",
-                "stars": 8504
+                "stars": 8504,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             },
@@ -353,12 +562,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Practical concurrency guide in Go, communication by channels, patterns",
+                "homepage": null,
                 "id": 430430380,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2023-04-25T00:28:44Z",
+                "open_issues": 1,
                 "owner": "luk4z7",
                 "repo": "go-concurrency-guide",
-                "stars": 2885
+                "stars": 2885,
+                "topics": [
+                  "channels",
+                  "concurrency",
+                  "deadlock",
+                  "go",
+                  "goroutine",
+                  "guideline",
+                  "mutex",
+                  "patterns",
+                  "race-conditions",
+                  "synchronization"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             },
@@ -369,12 +594,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a document to help with .NET memory analysis and diagnostics.",
+                "homepage": null,
                 "id": 293382014,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-02-18T21:06:03Z",
+                "open_issues": 2,
                 "owner": "Maoni0",
                 "repo": "mem-doc",
-                "stars": 1961
+                "stars": 1961,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
             }
@@ -388,15 +618,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:44:06.935Z",
+    "last_updated": "2026-08-29T04:15:59.511Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
+      "homepage": null,
       "id": 103086697,
       "language": "C#",
+      "license": "MIT",
       "last_commit": "2026-02-27T03:58:00Z",
+      "open_issues": 46,
       "owner": "thangchung",
       "repo": "clean-code-dotnet",
-      "stars": 7726
+      "stars": 7726,
+      "topics": [
+        "aspnet",
+        "awesome",
+        "azure",
+        "best-practices",
+        "clean-architecture",
+        "clean-code",
+        "composition",
+        "csharp",
+        "dotnet",
+        "inheritance",
+        "principles",
+        "solid"
+      ]
     },
     "original_repository_sha": "a604cf99e618de359cf34c5384a16fe72a5db2f4",
     "enhanced_repository": "enhansome/enhansome-clean-code-dotnet",
