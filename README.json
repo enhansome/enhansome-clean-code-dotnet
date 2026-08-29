@@ -21,7 +21,7 @@
                 "open_issues": 123,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94767,
+                "stars": 94769,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -71,7 +71,7 @@
                 "open_issues": 3,
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9805,
+                "stars": 9806,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -283,7 +283,7 @@
                 "open_issues": 137,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105605,
+                "stars": 105601,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -323,7 +323,7 @@
                 "open_issues": 170,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39549,
+                "stars": 39551,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -348,7 +348,7 @@
                 "open_issues": 5,
                 "owner": "HackSoftware",
                 "repo": "Django-Styleguide",
-                "stars": 6286,
+                "stars": 6285,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -469,7 +469,7 @@
                 "open_issues": 10,
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25611,
+                "stars": 25612,
                 "topics": [
                   "es6",
                   "javascript"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:15:59.511Z",
+    "last_updated": "2026-08-29T20:52:45.028Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
