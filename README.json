@@ -71,7 +71,7 @@
                 "open_issues": 3,
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9808,
+                "stars": 9809,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -174,7 +174,7 @@
                 "open_issues": 79,
                 "owner": "SAP",
                 "repo": "styleguides",
-                "stars": 2000,
+                "stars": 2001,
                 "topics": [
                   "abap"
                 ]
@@ -222,7 +222,7 @@
                 "open_issues": 1,
                 "owner": "lucasvegi",
                 "repo": "Elixir-Code-Smells",
-                "stars": 1513,
+                "stars": 1515,
                 "topics": [
                   "code-smells",
                   "elixir",
@@ -280,7 +280,7 @@
                 "language": "Dockerfile",
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-06-15T11:41:04Z",
-                "open_issues": 137,
+                "open_issues": 138,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
                 "stars": 105602,
@@ -323,7 +323,7 @@
                 "open_issues": 170,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39556,
+                "stars": 39563,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -348,7 +348,7 @@
                 "open_issues": 5,
                 "owner": "HackSoftware",
                 "repo": "Django-Styleguide",
-                "stars": 6285,
+                "stars": 6286,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -493,7 +493,7 @@
                 "open_issues": 21,
                 "owner": "kettanaito",
                 "repo": "naming-cheatsheet",
-                "stars": 14190,
+                "stars": 14189,
                 "topics": [
                   "action",
                   "cheatsheet",
@@ -550,7 +550,7 @@
                 "open_issues": 27,
                 "owner": "davidfowl",
                 "repo": "AspNetCoreDiagnosticScenarios",
-                "stars": 8503,
+                "stars": 8504,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T20:59:47.728Z",
+    "last_updated": "2026-09-02T20:59:25.271Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
@@ -630,7 +630,7 @@
       "open_issues": 46,
       "owner": "thangchung",
       "repo": "clean-code-dotnet",
-      "stars": 7729,
+      "stars": 7730,
       "topics": [
         "aspnet",
         "awesome",
