@@ -39,7 +39,7 @@ Software engineering principles, from Robert C. Martin's book [*Clean Code*](htt
 
 Not every principle herein has to be strictly followed, and even fewer will be universally agreed upon. These are guidelines and nothing more, but they are ones codified over many years of collective experience by the authors of *Clean Code*.
 
-Inspired from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,758 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29 and [clean-code-php](https://github.com/jupeter/clean-code-php) ⭐ 12,450 | 🐛 30 | 🌐 PHP | 📅 2024-05-09 lists.
+Inspired from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,763 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29 and [clean-code-php](https://github.com/jupeter/clean-code-php) ⭐ 12,449 | 🐛 30 | 🌐 PHP | 📅 2024-05-09 lists.
 
 # Clean Code .NET
 
@@ -3122,12 +3122,12 @@ private int ConvertTo32BitInt(int value)
 
 ## Other Clean Code Lists
 
-* [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,758 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29 - Clean Code concepts adapted for JavaScript
-* [clean-code-php](https://github.com/jupeter/clean-code-php) ⭐ 12,450 | 🐛 30 | 🌐 PHP | 📅 2024-05-09 - Clean Code concepts adapted for PHP
-* [clean-code-typescript](https://github.com/labs42io/clean-code-typescript) ⭐ 9,810 | 🐛 3 | 🌐 TypeScript | 📅 2025-07-01 - Clean Code concepts adapted for TypeScript
+* [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,763 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29 - Clean Code concepts adapted for JavaScript
+* [clean-code-php](https://github.com/jupeter/clean-code-php) ⭐ 12,449 | 🐛 30 | 🌐 PHP | 📅 2024-05-09 - Clean Code concepts adapted for PHP
+* [clean-code-typescript](https://github.com/labs42io/clean-code-typescript) ⭐ 9,809 | 🐛 3 | 🌐 TypeScript | 📅 2025-07-01 - Clean Code concepts adapted for TypeScript
 * [clean-code-python](https://github.com/zedr/clean-code-python) ⭐ 4,837 | 🐛 5 | 🌐 Python | 📅 2023-06-10 - Clean Code concepts adapted for Python
-* [programming-principles](https://github.com/webpro/programming-principles) ⭐ 3,095 | 🐛 0 | 📅 2026-06-30 - Categorized overview of Programming Principles & Patterns
-* [clean-go-article](https://github.com/Pungyeon/clean-go-article) ⭐ 3,091 | 🐛 8 | 📅 2023-01-31 - Clean Code concepts adapted for Golang and an example how to apply [clean code in Golang](https://github.com/Pungyeon/clean-go) ⭐ 141 | 🐛 0 | 🌐 Go | 📅 2020-02-03
+* [programming-principles](https://github.com/webpro/programming-principles) ⭐ 3,096 | 🐛 0 | 📅 2026-06-30 - Categorized overview of Programming Principles & Patterns
+* [clean-go-article](https://github.com/Pungyeon/clean-go-article) ⭐ 3,090 | 🐛 8 | 📅 2023-01-31 - Clean Code concepts adapted for Golang and an example how to apply [clean code in Golang](https://github.com/Pungyeon/clean-go) ⭐ 141 | 🐛 0 | 🌐 Go | 📅 2020-02-03
 * [clean-abap](https://github.com/SAP/styleguides) ⭐ 2,001 | 🐛 79 | 🌐 Markdown | 📅 2026-04-02 - Clean Code concepts adapted for ABAP
 * [clean-code-ruby](https://github.com/uohzxela/clean-code-ruby) ⭐ 1,597 | 🐛 7 | 🌐 Ruby | 📅 2022-09-10 - Clean Code concepts adapted for Ruby
 * [Elixir-Code-Smells](https://github.com/lucasvegi/Elixir-Code-Smells) ⭐ 1,515 | 🐛 1 | 🌐 Elixir | 📅 2024-09-12 - Catalog of Elixir-specific code smells
@@ -3135,8 +3135,8 @@ private int ConvertTo32BitInt(int value)
 
 ## Style Guides
 
-* [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) ⭐ 105,602 | 🐛 138 | 🌐 Dockerfile | 📅 2026-06-15 - The Node.js best practices list
-* [Google Styleguides](https://github.com/google/styleguide) ⭐ 39,564 | 🐛 170 | 🌐 HTML | 📅 2026-06-03 - This project holds the C++ Style Guide, Swift Style Guide, Objective-C Style Guide, Java Style Guide, Python Style Guide, R Style Guide, Shell Style Guide, HTML/CSS Style Guide, JavaScript Style Guide, AngularJS Style Guide, Common Lisp Style Guide, and Vimscript Style Guide
+* [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) ⭐ 105,611 | 🐛 138 | 🌐 Dockerfile | 📅 2026-06-15 - The Node.js best practices list
+* [Google Styleguides](https://github.com/google/styleguide) ⭐ 39,570 | 🐛 170 | 🌐 HTML | 📅 2026-06-03 - This project holds the C++ Style Guide, Swift Style Guide, Objective-C Style Guide, Java Style Guide, Python Style Guide, R Style Guide, Shell Style Guide, HTML/CSS Style Guide, JavaScript Style Guide, AngularJS Style Guide, Common Lisp Style Guide, and Vimscript Style Guide
 * [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) ⭐ 6,285 | 🐛 5 | 🌐 Python | 📅 2025-09-25 - Django styleguide used in HackSoft projects
 
 ## Tools
@@ -3147,7 +3147,7 @@ private int ConvertTo32BitInt(int value)
 
 ## Cheatsheets
 
-* [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) ⭐ 25,609 | 🐛 10 | 📅 2024-10-15 - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects
+* [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) ⭐ 25,611 | 🐛 10 | 📅 2024-10-15 - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects
 * [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) ⭐ 14,190 | 🐛 21 | 📅 2024-03-13 - Comprehensive language-agnostic guidelines on variables naming
 * [Cognitive Load In Software Development](https://github.com/zakirullin/cognitive-load) ⭐ 12,496 | 🐛 23 | 📅 2026-06-29
 * [AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios) ⭐ 8,504 | 🐛 27 | 🌐 C# | 📅 2024-05-28 - Examples of broken patterns in ASP.NET Core applications
@@ -3186,4 +3186,4 @@ To the extent possible under law, [thangchung](https://github.com/thangchung) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
