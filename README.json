@@ -21,7 +21,7 @@
                 "open_issues": 123,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94763,
+                "stars": 94765,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -50,7 +50,7 @@
                 "open_issues": 30,
                 "owner": "piotrplenik",
                 "repo": "clean-code-php",
-                "stars": 12449,
+                "stars": 12448,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -71,7 +71,7 @@
                 "open_issues": 3,
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9809,
+                "stars": 9807,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -283,7 +283,7 @@
                 "open_issues": 138,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105611,
+                "stars": 105609,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -323,7 +323,7 @@
                 "open_issues": 170,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39570,
+                "stars": 39574,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -469,7 +469,7 @@
                 "open_issues": 10,
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25611,
+                "stars": 25610,
                 "topics": [
                   "es6",
                   "javascript"
@@ -493,7 +493,7 @@
                 "open_issues": 21,
                 "owner": "kettanaito",
                 "repo": "naming-cheatsheet",
-                "stars": 14190,
+                "stars": 14191,
                 "topics": [
                   "action",
                   "cheatsheet",
@@ -529,7 +529,7 @@
                 "open_issues": 23,
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12496,
+                "stars": 12494,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T20:43:29.640Z",
+    "last_updated": "2026-09-05T20:17:23.064Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
