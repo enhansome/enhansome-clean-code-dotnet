@@ -3135,21 +3135,21 @@ private int ConvertTo32BitInt(int value)
 
 ## Style Guides
 
-* [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) ⭐ 105,609 | 🐛 138 | 🌐 Dockerfile | 📅 2026-06-15 - The Node.js best practices list
-* [Google Styleguides](https://github.com/google/styleguide) ⭐ 39,574 | 🐛 170 | 🌐 HTML | 📅 2026-06-03 - This project holds the C++ Style Guide, Swift Style Guide, Objective-C Style Guide, Java Style Guide, Python Style Guide, R Style Guide, Shell Style Guide, HTML/CSS Style Guide, JavaScript Style Guide, AngularJS Style Guide, Common Lisp Style Guide, and Vimscript Style Guide
-* [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) ⭐ 6,285 | 🐛 5 | 🌐 Python | 📅 2025-09-25 - Django styleguide used in HackSoft projects
+* [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) ⭐ 105,608 | 🐛 138 | 🌐 Dockerfile | 📅 2026-06-15 - The Node.js best practices list
+* [Google Styleguides](https://github.com/google/styleguide) ⭐ 39,579 | 🐛 170 | 🌐 HTML | 📅 2026-06-03 - This project holds the C++ Style Guide, Swift Style Guide, Objective-C Style Guide, Java Style Guide, Python Style Guide, R Style Guide, Shell Style Guide, HTML/CSS Style Guide, JavaScript Style Guide, AngularJS Style Guide, Common Lisp Style Guide, and Vimscript Style Guide
+* [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) ⭐ 6,286 | 🐛 5 | 🌐 Python | 📅 2025-09-25 - Django styleguide used in HackSoft projects
 
 ## Tools
 
-* [codemaid](https://github.com/codecadwallader/codemaid) ⭐ 1,985 | 🐛 507 | 🌐 C# | 📅 2025-10-13 - open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding
+* [codemaid](https://github.com/codecadwallader/codemaid) ⭐ 1,986 | 🐛 507 | 🌐 C# | 📅 2025-10-13 - open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding
 * [Sharpen](https://github.com/sharpenrocks/Sharpen) ⭐ 412 | 🐛 14 | 🌐 C# | 📅 2022-12-08 - Visual Studio extension that intelligently introduces new C# features into your existing code base
 * [tslint-clean-code](https://github.com/Glavin001/tslint-clean-code) ⭐ 175 | 🐛 34 | 🌐 TypeScript | 📅 2023-01-11 - TSLint rules for enforcing Clean Code
 
 ## Cheatsheets
 
-* [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) ⭐ 25,610 | 🐛 10 | 📅 2024-10-15 - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects
+* [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) ⭐ 25,609 | 🐛 10 | 📅 2024-10-15 - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects
 * [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) ⭐ 14,191 | 🐛 21 | 📅 2024-03-13 - Comprehensive language-agnostic guidelines on variables naming
-* [Cognitive Load In Software Development](https://github.com/zakirullin/cognitive-load) ⭐ 12,494 | 🐛 23 | 📅 2026-06-29
+* [Cognitive Load In Software Development](https://github.com/zakirullin/cognitive-load) ⭐ 12,495 | 🐛 23 | 📅 2026-06-29
 * [AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios) ⭐ 8,504 | 🐛 27 | 🌐 C# | 📅 2024-05-28 - Examples of broken patterns in ASP.NET Core applications
 * [Go Concurrency Guide](https://github.com/luk4z7/go-concurrency-guide) ⭐ 2,886 | 🐛 1 | 🌐 Go | 📅 2023-04-25
 * [.NET Memory Performance Analysis](https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md) ⭐ 1,960 | 🐛 2 | 📅 2024-02-18 - This document aims to help folks who develop applications in .NET with how to think about memory performance analysis and finding the right approaches to perform such analysis if they need to. In this context .NET includes .NET Framework and .NET Core. In order to get the latest memory improvements in both the garbage collector and the rest of the framework I strongly encourage you to be on .NET Core if you are not already, because that’s where the active development happens
@@ -3186,4 +3186,4 @@ To the extent possible under law, [thangchung](https://github.com/thangchung) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

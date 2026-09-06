@@ -283,7 +283,7 @@
                 "open_issues": 138,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105609,
+                "stars": 105608,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -323,7 +323,7 @@
                 "open_issues": 170,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39574,
+                "stars": 39579,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -348,7 +348,7 @@
                 "open_issues": 5,
                 "owner": "HackSoftware",
                 "repo": "Django-Styleguide",
-                "stars": 6285,
+                "stars": 6286,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -376,7 +376,7 @@
                 "open_issues": 507,
                 "owner": "codecadwallader",
                 "repo": "codemaid",
-                "stars": 1985,
+                "stars": 1986,
                 "topics": [
                   "c-sharp",
                   "clean-code",
@@ -469,7 +469,7 @@
                 "open_issues": 10,
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25610,
+                "stars": 25609,
                 "topics": [
                   "es6",
                   "javascript"
@@ -529,7 +529,7 @@
                 "open_issues": 23,
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12494,
+                "stars": 12495,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T20:17:23.064Z",
+    "last_updated": "2026-09-06T20:21:44.186Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
