@@ -50,7 +50,7 @@
                 "open_issues": 30,
                 "owner": "piotrplenik",
                 "repo": "clean-code-php",
-                "stars": 12448,
+                "stars": 12447,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -100,7 +100,7 @@
                 "open_issues": 5,
                 "owner": "zedr",
                 "repo": "clean-code-python",
-                "stars": 4837,
+                "stars": 4838,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "webpro",
                 "repo": "programming-principles",
-                "stars": 3096,
+                "stars": 3097,
                 "topics": [
                   "architectural-patterns",
                   "design-patterns",
@@ -174,7 +174,7 @@
                 "open_issues": 79,
                 "owner": "SAP",
                 "repo": "styleguides",
-                "stars": 2001,
+                "stars": 2003,
                 "topics": [
                   "abap"
                 ]
@@ -222,7 +222,7 @@
                 "open_issues": 1,
                 "owner": "lucasvegi",
                 "repo": "Elixir-Code-Smells",
-                "stars": 1515,
+                "stars": 1516,
                 "topics": [
                   "code-smells",
                   "elixir",
@@ -283,7 +283,7 @@
                 "open_issues": 138,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105608,
+                "stars": 105612,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -323,7 +323,7 @@
                 "open_issues": 170,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39579,
+                "stars": 39582,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -348,7 +348,7 @@
                 "open_issues": 5,
                 "owner": "HackSoftware",
                 "repo": "Django-Styleguide",
-                "stars": 6286,
+                "stars": 6287,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -469,7 +469,7 @@
                 "open_issues": 10,
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25609,
+                "stars": 25607,
                 "topics": [
                   "es6",
                   "javascript"
@@ -493,7 +493,7 @@
                 "open_issues": 21,
                 "owner": "kettanaito",
                 "repo": "naming-cheatsheet",
-                "stars": 14191,
+                "stars": 14190,
                 "topics": [
                   "action",
                   "cheatsheet",
@@ -529,7 +529,7 @@
                 "open_issues": 23,
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12495,
+                "stars": 12496,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -550,7 +550,7 @@
                 "open_issues": 27,
                 "owner": "davidfowl",
                 "repo": "AspNetCoreDiagnosticScenarios",
-                "stars": 8504,
+                "stars": 8505,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T20:21:44.186Z",
+    "last_updated": "2026-09-07T21:28:28.556Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
@@ -630,7 +630,7 @@
       "open_issues": 46,
       "owner": "thangchung",
       "repo": "clean-code-dotnet",
-      "stars": 7732,
+      "stars": 7733,
       "topics": [
         "aspnet",
         "awesome",
