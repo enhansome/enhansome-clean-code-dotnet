@@ -71,7 +71,7 @@
                 "open_issues": 3,
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9807,
+                "stars": 9806,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -100,7 +100,7 @@
                 "open_issues": 5,
                 "owner": "zedr",
                 "repo": "clean-code-python",
-                "stars": 4838,
+                "stars": 4840,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -174,7 +174,7 @@
                 "open_issues": 79,
                 "owner": "SAP",
                 "repo": "styleguides",
-                "stars": 2003,
+                "stars": 2004,
                 "topics": [
                   "abap"
                 ]
@@ -197,7 +197,7 @@
                 "open_issues": 7,
                 "owner": "uohzxela",
                 "repo": "clean-code-ruby",
-                "stars": 1597,
+                "stars": 1596,
                 "topics": [
                   "best-practices",
                   "clean-code",
@@ -283,7 +283,7 @@
                 "open_issues": 138,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105612,
+                "stars": 105609,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -323,7 +323,7 @@
                 "open_issues": 170,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39582,
+                "stars": 39584,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -469,7 +469,7 @@
                 "open_issues": 10,
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25607,
+                "stars": 25606,
                 "topics": [
                   "es6",
                   "javascript"
@@ -493,7 +493,7 @@
                 "open_issues": 21,
                 "owner": "kettanaito",
                 "repo": "naming-cheatsheet",
-                "stars": 14190,
+                "stars": 14191,
                 "topics": [
                   "action",
                   "cheatsheet",
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T21:28:28.556Z",
+    "last_updated": "2026-09-08T21:06:04.167Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
@@ -630,7 +630,7 @@
       "open_issues": 46,
       "owner": "thangchung",
       "repo": "clean-code-dotnet",
-      "stars": 7733,
+      "stars": 7734,
       "topics": [
         "aspnet",
         "awesome",
