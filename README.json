@@ -21,7 +21,7 @@
                 "open_issues": 123,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94763,
+                "stars": 94764,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -50,7 +50,7 @@
                 "open_issues": 30,
                 "owner": "piotrplenik",
                 "repo": "clean-code-php",
-                "stars": 12445,
+                "stars": 12446,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -71,7 +71,7 @@
                 "open_issues": 3,
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9806,
+                "stars": 9809,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -100,7 +100,7 @@
                 "open_issues": 5,
                 "owner": "zedr",
                 "repo": "clean-code-python",
-                "stars": 4842,
+                "stars": 4844,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -146,7 +146,7 @@
                 "open_issues": 8,
                 "owner": "Pungyeon",
                 "repo": "clean-go-article",
-                "stars": 3090,
+                "stars": 3089,
                 "topics": [
                   "clean-code",
                   "coding-guidelines",
@@ -280,7 +280,7 @@
                 "language": "Dockerfile",
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-06-15T11:41:04Z",
-                "open_issues": 138,
+                "open_issues": 139,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
                 "stars": 105609,
@@ -319,11 +319,11 @@
                 "id": 35969061,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T03:42:25Z",
+                "last_commit": "2026-09-11T01:17:34Z",
                 "open_issues": 170,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39590,
+                "stars": 39593,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -376,7 +376,7 @@
                 "open_issues": 507,
                 "owner": "codecadwallader",
                 "repo": "codemaid",
-                "stars": 1986,
+                "stars": 1987,
                 "topics": [
                   "c-sharp",
                   "clean-code",
@@ -529,7 +529,7 @@
                 "open_issues": 23,
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12500,
+                "stars": 12501,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -571,7 +571,7 @@
                 "open_issues": 1,
                 "owner": "luk4z7",
                 "repo": "go-concurrency-guide",
-                "stars": 2884,
+                "stars": 2885,
                 "topics": [
                   "channels",
                   "concurrency",
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T20:48:48.649Z",
+    "last_updated": "2026-09-11T20:55:42.546Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
