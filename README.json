@@ -21,7 +21,7 @@
                 "open_issues": 123,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94764,
+                "stars": 94763,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -71,7 +71,7 @@
                 "open_issues": 3,
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9809,
+                "stars": 9810,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -146,7 +146,7 @@
                 "open_issues": 8,
                 "owner": "Pungyeon",
                 "repo": "clean-go-article",
-                "stars": 3089,
+                "stars": 3091,
                 "topics": [
                   "clean-code",
                   "coding-guidelines",
@@ -174,7 +174,7 @@
                 "open_issues": 79,
                 "owner": "SAP",
                 "repo": "styleguides",
-                "stars": 2005,
+                "stars": 2006,
                 "topics": [
                   "abap"
                 ]
@@ -280,10 +280,10 @@
                 "language": "Dockerfile",
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-06-15T11:41:04Z",
-                "open_issues": 139,
+                "open_issues": 138,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105609,
+                "stars": 105615,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -323,7 +323,7 @@
                 "open_issues": 170,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39593,
+                "stars": 39598,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -348,7 +348,7 @@
                 "open_issues": 5,
                 "owner": "HackSoftware",
                 "repo": "Django-Styleguide",
-                "stars": 6288,
+                "stars": 6289,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -529,7 +529,7 @@
                 "open_issues": 23,
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12501,
+                "stars": 12503,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -550,7 +550,7 @@
                 "open_issues": 27,
                 "owner": "davidfowl",
                 "repo": "AspNetCoreDiagnosticScenarios",
-                "stars": 8505,
+                "stars": 8504,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -571,7 +571,7 @@
                 "open_issues": 1,
                 "owner": "luk4z7",
                 "repo": "go-concurrency-guide",
-                "stars": 2885,
+                "stars": 2886,
                 "topics": [
                   "channels",
                   "concurrency",
@@ -603,7 +603,7 @@
                 "open_issues": 2,
                 "owner": "Maoni0",
                 "repo": "mem-doc",
-                "stars": 1960,
+                "stars": 1961,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T20:55:42.546Z",
+    "last_updated": "2026-09-12T20:30:44.266Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
@@ -627,7 +627,7 @@
       "language": "C#",
       "license": "MIT",
       "last_commit": "2026-02-27T03:58:00Z",
-      "open_issues": 46,
+      "open_issues": 47,
       "owner": "thangchung",
       "repo": "clean-code-dotnet",
       "stars": 7735,
