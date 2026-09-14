@@ -21,7 +21,7 @@
                 "open_issues": 123,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94763,
+                "stars": 94762,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -71,7 +71,7 @@
                 "open_issues": 3,
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9811,
+                "stars": 9813,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -100,7 +100,7 @@
                 "open_issues": 5,
                 "owner": "zedr",
                 "repo": "clean-code-python",
-                "stars": 4845,
+                "stars": 4849,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -174,7 +174,7 @@
                 "open_issues": 79,
                 "owner": "SAP",
                 "repo": "styleguides",
-                "stars": 2006,
+                "stars": 2007,
                 "topics": [
                   "abap"
                 ]
@@ -222,7 +222,7 @@
                 "open_issues": 1,
                 "owner": "lucasvegi",
                 "repo": "Elixir-Code-Smells",
-                "stars": 1516,
+                "stars": 1515,
                 "topics": [
                   "code-smells",
                   "elixir",
@@ -283,7 +283,7 @@
                 "open_issues": 138,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105614,
+                "stars": 105616,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -319,7 +319,7 @@
                 "id": 35969061,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-13T03:20:26Z",
+                "last_commit": "2026-09-14T20:16:39Z",
                 "open_issues": 170,
                 "owner": "google",
                 "repo": "styleguide",
@@ -348,7 +348,7 @@
                 "open_issues": 5,
                 "owner": "HackSoftware",
                 "repo": "Django-Styleguide",
-                "stars": 6290,
+                "stars": 6291,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -469,7 +469,7 @@
                 "open_issues": 10,
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25604,
+                "stars": 25603,
                 "topics": [
                   "es6",
                   "javascript"
@@ -493,7 +493,7 @@
                 "open_issues": 21,
                 "owner": "kettanaito",
                 "repo": "naming-cheatsheet",
-                "stars": 14192,
+                "stars": 14191,
                 "topics": [
                   "action",
                   "cheatsheet",
@@ -529,7 +529,7 @@
                 "open_issues": 23,
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12505,
+                "stars": 12506,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T20:45:44.077Z",
+    "last_updated": "2026-09-14T21:46:53.032Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
