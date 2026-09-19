@@ -71,7 +71,7 @@
                 "open_issues": 3,
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9817,
+                "stars": 9818,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -283,7 +283,7 @@
                 "open_issues": 138,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105623,
+                "stars": 105628,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -320,7 +320,7 @@
                 "language": "HTML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-18T01:52:41Z",
-                "open_issues": 170,
+                "open_issues": 171,
                 "owner": "google",
                 "repo": "styleguide",
                 "stars": 39615,
@@ -529,7 +529,7 @@
                 "open_issues": 23,
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12506,
+                "stars": 12507,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -571,7 +571,7 @@
                 "open_issues": 1,
                 "owner": "luk4z7",
                 "repo": "go-concurrency-guide",
-                "stars": 2887,
+                "stars": 2888,
                 "topics": [
                   "channels",
                   "concurrency",
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T20:51:27.192Z",
+    "last_updated": "2026-09-19T20:35:17.133Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
@@ -630,7 +630,7 @@
       "open_issues": 47,
       "owner": "thangchung",
       "repo": "clean-code-dotnet",
-      "stars": 7735,
+      "stars": 7736,
       "topics": [
         "aspnet",
         "awesome",
