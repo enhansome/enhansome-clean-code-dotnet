@@ -21,7 +21,7 @@
                 "open_issues": 123,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94757,
+                "stars": 94759,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -71,7 +71,7 @@
                 "open_issues": 3,
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9818,
+                "stars": 9820,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -249,7 +249,7 @@
                 "open_issues": 0,
                 "owner": "kkisiele",
                 "repo": "awesome-clean-code",
-                "stars": 122,
+                "stars": 121,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -280,10 +280,10 @@
                 "language": "Dockerfile",
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-06-15T11:41:04Z",
-                "open_issues": 137,
+                "open_issues": 138,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105651,
+                "stars": 105655,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -323,7 +323,7 @@
                 "open_issues": 170,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39647,
+                "stars": 39646,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -529,7 +529,7 @@
                 "open_issues": 23,
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12515,
+                "stars": 12514,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:40:54.086Z",
+    "last_updated": "2026-10-03T21:10:41.922Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
