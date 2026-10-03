@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "webpro",
                 "repo": "programming-principles",
-                "stars": 3098,
+                "stars": 3099,
                 "topics": [
                   "architectural-patterns",
                   "design-patterns",
@@ -516,7 +516,7 @@
             {
               "node_type": "item",
               "title": "Cognitive Load In Software Development",
-              "description": null,
+              "description": "zakirullin/cognitive-load",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -529,7 +529,7 @@
                 "open_issues": 23,
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12516,
+                "stars": 12515,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -558,7 +558,7 @@
             {
               "node_type": "item",
               "title": "Go Concurrency Guide",
-              "description": null,
+              "description": "luk4z7/go-concurrency-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:09:44.264Z",
+    "last_updated": "2026-10-03T04:40:54.086Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
@@ -630,7 +630,7 @@
       "open_issues": 47,
       "owner": "thangchung",
       "repo": "clean-code-dotnet",
-      "stars": 7734,
+      "stars": 7735,
       "topics": [
         "aspnet",
         "awesome",

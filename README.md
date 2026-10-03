@@ -3126,7 +3126,7 @@ private int ConvertTo32BitInt(int value)
 * [clean-code-php](https://github.com/jupeter/clean-code-php) ⭐ 12,448 | 🐛 30 | 🌐 PHP | 📅 2024-05-09 - Clean Code concepts adapted for PHP
 * [clean-code-typescript](https://github.com/labs42io/clean-code-typescript) ⭐ 9,818 | 🐛 3 | 🌐 TypeScript | 📅 2025-07-01 - Clean Code concepts adapted for TypeScript
 * [clean-code-python](https://github.com/zedr/clean-code-python) ⭐ 4,857 | 🐛 5 | 🌐 Python | 📅 2023-06-10 - Clean Code concepts adapted for Python
-* [programming-principles](https://github.com/webpro/programming-principles) ⭐ 3,098 | 🐛 0 | 📅 2026-06-30 - Categorized overview of Programming Principles & Patterns
+* [programming-principles](https://github.com/webpro/programming-principles) ⭐ 3,099 | 🐛 0 | 📅 2026-06-30 - Categorized overview of Programming Principles & Patterns
 * [clean-go-article](https://github.com/Pungyeon/clean-go-article) ⭐ 3,091 | 🐛 8 | 📅 2023-01-31 - Clean Code concepts adapted for Golang and an example how to apply [clean code in Golang](https://github.com/Pungyeon/clean-go) ⭐ 141 | 🐛 0 | 🌐 Go | 📅 2020-02-03
 * [clean-abap](https://github.com/SAP/styleguides) ⭐ 2,021 | 🐛 79 | 🌐 Markdown | 📅 2026-04-02 - Clean Code concepts adapted for ABAP
 * [clean-code-ruby](https://github.com/uohzxela/clean-code-ruby) ⭐ 1,596 | 🐛 7 | 🌐 Ruby | 📅 2022-09-10 - Clean Code concepts adapted for Ruby
@@ -3149,7 +3149,7 @@ private int ConvertTo32BitInt(int value)
 
 * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) ⭐ 25,601 | 🐛 10 | 📅 2024-10-15 - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects
 * [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) ⭐ 14,197 | 🐛 21 | 📅 2024-03-13 - Comprehensive language-agnostic guidelines on variables naming
-* [Cognitive Load In Software Development](https://github.com/zakirullin/cognitive-load) ⭐ 12,516 | 🐛 23 | 📅 2026-06-29
+* [Cognitive Load In Software Development](https://github.com/zakirullin/cognitive-load) ⭐ 12,515 | 🐛 23 | 📅 2026-06-29
 * [AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios) ⭐ 8,507 | 🐛 27 | 🌐 C# | 📅 2024-05-28 - Examples of broken patterns in ASP.NET Core applications
 * [Go Concurrency Guide](https://github.com/luk4z7/go-concurrency-guide) ⭐ 2,889 | 🐛 1 | 🌐 Go | 📅 2023-04-25
 * [.NET Memory Performance Analysis](https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md) ⭐ 1,962 | 🐛 2 | 📅 2024-02-18 - This document aims to help folks who develop applications in .NET with how to think about memory performance analysis and finding the right approaches to perform such analysis if they need to. In this context .NET includes .NET Framework and .NET Core. In order to get the latest memory improvements in both the garbage collector and the rest of the framework I strongly encourage you to be on .NET Core if you are not already, because that’s where the active development happens
@@ -3164,7 +3164,7 @@ private int ConvertTo32BitInt(int value)
 
 Thank you to all the people who have already contributed to `clean-code-dotnet` project
 
-[<img src="https://opencollective.com/cleancodedotnet/contributors.svg?width=890" title="contributors" alt="contributors" />](https://github.com/thangchung/clean-code-dotnet/graphs/contributors) ⭐ 7,734 | 🐛 47 | 🌐 C# | 📅 2026-02-27
+[<img src="https://opencollective.com/cleancodedotnet/contributors.svg?width=890" title="contributors" alt="contributors" />](https://github.com/thangchung/clean-code-dotnet/graphs/contributors)
 
 # Backers
 
@@ -3186,4 +3186,4 @@ To the extent possible under law, [thangchung](https://github.com/thangchung) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
