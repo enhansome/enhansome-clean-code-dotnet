@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94728,
+                "stars": 94727,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -50,7 +50,7 @@
                 "open_issues": 30,
                 "owner": "piotrplenik",
                 "repo": "clean-code-php",
-                "stars": 12453,
+                "stars": 12452,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -71,7 +71,7 @@
                 "open_issues": 3,
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9819,
+                "stars": 9821,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -100,7 +100,7 @@
                 "open_issues": 5,
                 "owner": "zedr",
                 "repo": "clean-code-python",
-                "stars": 4861,
+                "stars": 4862,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -146,7 +146,7 @@
                 "open_issues": 8,
                 "owner": "Pungyeon",
                 "repo": "clean-go-article",
-                "stars": 3087,
+                "stars": 3088,
                 "topics": [
                   "clean-code",
                   "coding-guidelines",
@@ -197,7 +197,7 @@
                 "open_issues": 7,
                 "owner": "uohzxela",
                 "repo": "clean-code-ruby",
-                "stars": 1597,
+                "stars": 1598,
                 "topics": [
                   "best-practices",
                   "clean-code",
@@ -222,7 +222,7 @@
                 "open_issues": 1,
                 "owner": "lucasvegi",
                 "repo": "Elixir-Code-Smells",
-                "stars": 1514,
+                "stars": 1515,
                 "topics": [
                   "code-smells",
                   "elixir",
@@ -283,7 +283,7 @@
                 "open_issues": 138,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105656,
+                "stars": 105657,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -319,11 +319,11 @@
                 "id": 35969061,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T16:55:04Z",
-                "open_issues": 168,
+                "last_commit": "2026-10-13T20:20:30Z",
+                "open_issues": 173,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39663,
+                "stars": 39669,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -348,7 +348,7 @@
                 "open_issues": 5,
                 "owner": "HackSoftware",
                 "repo": "Django-Styleguide",
-                "stars": 6303,
+                "stars": 6302,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -469,7 +469,7 @@
                 "open_issues": 10,
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25597,
+                "stars": 25592,
                 "topics": [
                   "es6",
                   "javascript"
@@ -493,7 +493,7 @@
                 "open_issues": 21,
                 "owner": "kettanaito",
                 "repo": "naming-cheatsheet",
-                "stars": 14199,
+                "stars": 14200,
                 "topics": [
                   "action",
                   "cheatsheet",
@@ -603,7 +603,7 @@
                 "open_issues": 2,
                 "owner": "Maoni0",
                 "repo": "mem-doc",
-                "stars": 1960,
+                "stars": 1962,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T00:35:00.833Z",
+    "last_updated": "2026-10-13T22:39:48.946Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
@@ -630,7 +630,7 @@
       "open_issues": 46,
       "owner": "thangchung",
       "repo": "clean-code-dotnet",
-      "stars": 7738,
+      "stars": 7740,
       "topics": [
         "aspnet",
         "awesome",
