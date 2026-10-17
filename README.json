@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94730,
+                "stars": 94726,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -174,7 +174,7 @@
                 "open_issues": 78,
                 "owner": "SAP",
                 "repo": "styleguides",
-                "stars": 2030,
+                "stars": 2032,
                 "topics": [
                   "abap"
                 ]
@@ -319,11 +319,11 @@
                 "id": 35969061,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T19:54:56Z",
-                "open_issues": 102,
+                "last_commit": "2026-10-17T16:32:43Z",
+                "open_issues": 99,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39676,
+                "stars": 39679,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -529,7 +529,7 @@
                 "open_issues": 23,
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12523,
+                "stars": 12522,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T21:02:29.536Z",
+    "last_updated": "2026-10-17T20:31:53.611Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
@@ -630,7 +630,7 @@
       "open_issues": 46,
       "owner": "thangchung",
       "repo": "clean-code-dotnet",
-      "stars": 7741,
+      "stars": 7740,
       "topics": [
         "aspnet",
         "awesome",
