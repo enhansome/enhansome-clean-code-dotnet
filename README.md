@@ -39,7 +39,7 @@ Software engineering principles, from Robert C. Martin's book [*Clean Code*](htt
 
 Not every principle herein has to be strictly followed, and even fewer will be universally agreed upon. These are guidelines and nothing more, but they are ones codified over many years of collective experience by the authors of *Clean Code*.
 
-Inspired from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,716 | 🐛 124 | 🌐 JavaScript | 📅 2024-07-29 and [clean-code-php](https://github.com/jupeter/clean-code-php) ⭐ 12,454 | 🐛 30 | 🌐 PHP | 📅 2024-05-09 lists.
+Inspired from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,709 | 🐛 124 | 🌐 JavaScript | 📅 2024-07-29 and [clean-code-php](https://github.com/jupeter/clean-code-php) ⭐ 12,455 | 🐛 30 | 🌐 PHP | 📅 2024-05-09 lists.
 
 # Clean Code .NET
 
@@ -2403,7 +2403,7 @@ public List<EmployeeData> ShowList(Employee employees)
 Testing is more important than shipping. If you have no tests or an
 inadequate amount, then every time you ship code you won't be sure that you didn't break anything. Deciding on what constitutes an adequate amount is up to your team, but having 100% coverage (all statements and branches) is how you achieve very high confidence and developer peace of mind. This means that in addition to having a great testing framework, you also need to use a [good coverage tool](https://docs.microsoft.com/en-us/visualstudio/test/using-code-coverage-to-determine-how-much-code-is-being-tested).
 
-There's no excuse to not write tests. There's [plenty of good .NET test frameworks](https://github.com/thangchung/awesome-dotnet-core#testing) ⭐ 21,420 | 🐛 224 | 🌐 C# | 📅 2026-02-27, so find one that your team prefers. When you find one that works for your team, then aim to always write tests for every new feature/module you introduce. If your preferred method is Test Driven Development (TDD), that is great, but the main point is to just make sure you are reaching your coverage goals before launching any feature, or refactoring an existing one.
+There's no excuse to not write tests. There's [plenty of good .NET test frameworks](https://github.com/thangchung/awesome-dotnet-core#testing) ⭐ 21,421 | 🐛 223 | 🌐 C# | 📅 2026-02-27, so find one that your team prefers. When you find one that works for your team, then aim to always write tests for every new feature/module you introduce. If your preferred method is Test Driven Development (TDD), that is great, but the main point is to just make sure you are reaching your coverage goals before launching any feature, or refactoring an existing one.
 
 </details>
 
@@ -3122,21 +3122,21 @@ private int ConvertTo32BitInt(int value)
 
 ## Other Clean Code Lists
 
-* [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,716 | 🐛 124 | 🌐 JavaScript | 📅 2024-07-29 - Clean Code concepts adapted for JavaScript
-* [clean-code-php](https://github.com/jupeter/clean-code-php) ⭐ 12,454 | 🐛 30 | 🌐 PHP | 📅 2024-05-09 - Clean Code concepts adapted for PHP
+* [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,709 | 🐛 124 | 🌐 JavaScript | 📅 2024-07-29 - Clean Code concepts adapted for JavaScript
+* [clean-code-php](https://github.com/jupeter/clean-code-php) ⭐ 12,455 | 🐛 30 | 🌐 PHP | 📅 2024-05-09 - Clean Code concepts adapted for PHP
 * [clean-code-typescript](https://github.com/labs42io/clean-code-typescript) ⭐ 9,825 | 🐛 3 | 🌐 TypeScript | 📅 2025-07-01 - Clean Code concepts adapted for TypeScript
-* [clean-code-python](https://github.com/zedr/clean-code-python) ⭐ 4,865 | 🐛 5 | 🌐 Python | 📅 2023-06-10 - Clean Code concepts adapted for Python
-* [programming-principles](https://github.com/webpro/programming-principles) ⭐ 3,104 | 🐛 0 | 📅 2026-06-30 - Categorized overview of Programming Principles & Patterns
+* [clean-code-python](https://github.com/zedr/clean-code-python) ⭐ 4,864 | 🐛 5 | 🌐 Python | 📅 2023-06-10 - Clean Code concepts adapted for Python
+* [programming-principles](https://github.com/webpro/programming-principles) ⭐ 3,105 | 🐛 0 | 📅 2026-06-30 - Categorized overview of Programming Principles & Patterns
 * [clean-go-article](https://github.com/Pungyeon/clean-go-article) ⭐ 3,088 | 🐛 8 | 📅 2023-01-31 - Clean Code concepts adapted for Golang and an example how to apply [clean code in Golang](https://github.com/Pungyeon/clean-go) ⭐ 141 | 🐛 0 | 🌐 Go | 📅 2020-02-03
-* [clean-abap](https://github.com/SAP/styleguides) ⭐ 2,032 | 🐛 78 | 🌐 Markdown | 📅 2026-04-02 - Clean Code concepts adapted for ABAP
+* [clean-abap](https://github.com/SAP/styleguides) ⭐ 2,032 | 🐛 76 | 🌐 Markdown | 📅 2026-10-21 - Clean Code concepts adapted for ABAP
 * [clean-code-ruby](https://github.com/uohzxela/clean-code-ruby) ⭐ 1,599 | 🐛 7 | 🌐 Ruby | 📅 2022-09-10 - Clean Code concepts adapted for Ruby
 * [Elixir-Code-Smells](https://github.com/lucasvegi/Elixir-Code-Smells) ⭐ 1,516 | 🐛 1 | 🌐 Elixir | 📅 2024-09-12 - Catalog of Elixir-specific code smells
 * [awesome-clean-code](https://github.com/kkisiele/awesome-clean-code) ⭐ 121 | 🐛 0 | 📅 2023-03-20 - Design principles, featured articles, tutorials, videos, code examples, blogs and books
 
 ## Style Guides
 
-* [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) ⭐ 105,664 | 🐛 139 | 🌐 Dockerfile | 📅 2026-06-15 - The Node.js best practices list
-* [Google Styleguides](https://github.com/google/styleguide) ⭐ 39,687 | 🐛 88 | 🌐 HTML | 📅 2026-10-20 - This project holds the C++ Style Guide, Swift Style Guide, Objective-C Style Guide, Java Style Guide, Python Style Guide, R Style Guide, Shell Style Guide, HTML/CSS Style Guide, JavaScript Style Guide, AngularJS Style Guide, Common Lisp Style Guide, and Vimscript Style Guide
+* [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) ⭐ 105,670 | 🐛 139 | 🌐 Dockerfile | 📅 2026-06-15 - The Node.js best practices list
+* [Google Styleguides](https://github.com/google/styleguide) ⭐ 39,691 | 🐛 87 | 🌐 HTML | 📅 2026-10-21 - This project holds the C++ Style Guide, Swift Style Guide, Objective-C Style Guide, Java Style Guide, Python Style Guide, R Style Guide, Shell Style Guide, HTML/CSS Style Guide, JavaScript Style Guide, AngularJS Style Guide, Common Lisp Style Guide, and Vimscript Style Guide
 * [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) ⭐ 6,306 | 🐛 5 | 🌐 Python | 📅 2025-09-25 - Django styleguide used in HackSoft projects
 
 ## Tools
@@ -3186,4 +3186,4 @@ To the extent possible under law, [thangchung](https://github.com/thangchung) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
