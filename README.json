@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94709,
+                "stars": 94706,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -50,7 +50,7 @@
                 "open_issues": 30,
                 "owner": "piotrplenik",
                 "repo": "clean-code-php",
-                "stars": 12455,
+                "stars": 12457,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -71,7 +71,7 @@
                 "open_issues": 3,
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9825,
+                "stars": 9826,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "webpro",
                 "repo": "programming-principles",
-                "stars": 3105,
+                "stars": 3103,
                 "topics": [
                   "architectural-patterns",
                   "design-patterns",
@@ -174,7 +174,7 @@
                 "open_issues": 76,
                 "owner": "SAP",
                 "repo": "styleguides",
-                "stars": 2032,
+                "stars": 2035,
                 "topics": [
                   "abap"
                 ]
@@ -280,10 +280,10 @@
                 "language": "Dockerfile",
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-06-15T11:41:04Z",
-                "open_issues": 139,
+                "open_issues": 140,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105670,
+                "stars": 105669,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -319,11 +319,11 @@
                 "id": 35969061,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T18:33:18Z",
+                "last_commit": "2026-10-21T22:14:02Z",
                 "open_issues": 87,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39691,
+                "stars": 39711,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -348,7 +348,7 @@
                 "open_issues": 5,
                 "owner": "HackSoftware",
                 "repo": "Django-Styleguide",
-                "stars": 6306,
+                "stars": 6307,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -403,7 +403,7 @@
                 "open_issues": 14,
                 "owner": "sharpenrocks",
                 "repo": "Sharpen",
-                "stars": 413,
+                "stars": 414,
                 "topics": [
                   "csharp3",
                   "csharp5",
@@ -469,7 +469,7 @@
                 "open_issues": 10,
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25589,
+                "stars": 25588,
                 "topics": [
                   "es6",
                   "javascript"
@@ -493,7 +493,7 @@
                 "open_issues": 21,
                 "owner": "kettanaito",
                 "repo": "naming-cheatsheet",
-                "stars": 14206,
+                "stars": 14204,
                 "topics": [
                   "action",
                   "cheatsheet",
@@ -603,7 +603,7 @@
                 "open_issues": 2,
                 "owner": "Maoni0",
                 "repo": "mem-doc",
-                "stars": 1962,
+                "stars": 1963,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T21:37:03.722Z",
+    "last_updated": "2026-10-22T21:30:23.900Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
