@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94704,
+                "stars": 94708,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -100,7 +100,7 @@
                 "open_issues": 5,
                 "owner": "zedr",
                 "repo": "clean-code-python",
-                "stars": 4864,
+                "stars": 4865,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -280,10 +280,10 @@
                 "language": "Dockerfile",
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-06-15T11:41:04Z",
-                "open_issues": 140,
+                "open_issues": 141,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105674,
+                "stars": 105675,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -319,11 +319,11 @@
                 "id": 35969061,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T20:27:26Z",
+                "last_commit": "2026-10-24T03:00:18Z",
                 "open_issues": 87,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39722,
+                "stars": 39729,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -469,7 +469,7 @@
                 "open_issues": 10,
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25586,
+                "stars": 25587,
                 "topics": [
                   "es6",
                   "javascript"
@@ -529,7 +529,7 @@
                 "open_issues": 23,
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12523,
+                "stars": 12522,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -550,7 +550,7 @@
                 "open_issues": 27,
                 "owner": "davidfowl",
                 "repo": "AspNetCoreDiagnosticScenarios",
-                "stars": 8504,
+                "stars": 8503,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T21:20:45.430Z",
+    "last_updated": "2026-10-24T20:43:07.534Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
@@ -630,7 +630,7 @@
       "open_issues": 46,
       "owner": "thangchung",
       "repo": "clean-code-dotnet",
-      "stars": 7744,
+      "stars": 7746,
       "topics": [
         "aspnet",
         "awesome",
