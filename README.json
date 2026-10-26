@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94705,
+                "stars": 94704,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -50,7 +50,7 @@
                 "open_issues": 30,
                 "owner": "piotrplenik",
                 "repo": "clean-code-php",
-                "stars": 12456,
+                "stars": 12457,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -100,7 +100,7 @@
                 "open_issues": 5,
                 "owner": "zedr",
                 "repo": "clean-code-python",
-                "stars": 4865,
+                "stars": 4866,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -174,7 +174,7 @@
                 "open_issues": 76,
                 "owner": "SAP",
                 "repo": "styleguides",
-                "stars": 2035,
+                "stars": 2037,
                 "topics": [
                   "abap"
                 ]
@@ -283,7 +283,7 @@
                 "open_issues": 141,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105676,
+                "stars": 105681,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -319,11 +319,11 @@
                 "id": 35969061,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T03:00:18Z",
+                "last_commit": "2026-10-26T16:57:12Z",
                 "open_issues": 87,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39737,
+                "stars": 39743,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -348,7 +348,7 @@
                 "open_issues": 5,
                 "owner": "HackSoftware",
                 "repo": "Django-Styleguide",
-                "stars": 6308,
+                "stars": 6309,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -469,7 +469,7 @@
                 "open_issues": 10,
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25586,
+                "stars": 25585,
                 "topics": [
                   "es6",
                   "javascript"
@@ -493,7 +493,7 @@
                 "open_issues": 21,
                 "owner": "kettanaito",
                 "repo": "naming-cheatsheet",
-                "stars": 14204,
+                "stars": 14202,
                 "topics": [
                   "action",
                   "cheatsheet",
@@ -525,11 +525,11 @@
                 "id": 642858415,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-06-29T17:36:29Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-26T07:56:08Z",
+                "open_issues": 22,
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12524,
+                "stars": 12528,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -550,7 +550,7 @@
                 "open_issues": 27,
                 "owner": "davidfowl",
                 "repo": "AspNetCoreDiagnosticScenarios",
-                "stars": 8503,
+                "stars": 8502,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T20:46:27.704Z",
+    "last_updated": "2026-10-26T22:36:38.342Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
@@ -630,7 +630,7 @@
       "open_issues": 46,
       "owner": "thangchung",
       "repo": "clean-code-dotnet",
-      "stars": 7747,
+      "stars": 7748,
       "topics": [
         "aspnet",
         "awesome",
