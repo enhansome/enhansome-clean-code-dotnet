@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94692,
+                "stars": 94693,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -71,7 +71,7 @@
                 "open_issues": 3,
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9828,
+                "stars": 9830,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -100,7 +100,7 @@
                 "open_issues": 5,
                 "owner": "zedr",
                 "repo": "clean-code-python",
-                "stars": 4866,
+                "stars": 4867,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -146,7 +146,7 @@
                 "open_issues": 8,
                 "owner": "Pungyeon",
                 "repo": "clean-go-article",
-                "stars": 3087,
+                "stars": 3088,
                 "topics": [
                   "clean-code",
                   "coding-guidelines",
@@ -283,7 +283,7 @@
                 "open_issues": 141,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105684,
+                "stars": 105690,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -319,11 +319,11 @@
                 "id": 35969061,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T03:08:02Z",
+                "last_commit": "2026-10-30T14:43:21Z",
                 "open_issues": 86,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39779,
+                "stars": 39782,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -348,7 +348,7 @@
                 "open_issues": 5,
                 "owner": "HackSoftware",
                 "repo": "Django-Styleguide",
-                "stars": 6306,
+                "stars": 6307,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -529,7 +529,7 @@
                 "open_issues": 22,
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12528,
+                "stars": 12529,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -550,7 +550,7 @@
                 "open_issues": 27,
                 "owner": "davidfowl",
                 "repo": "AspNetCoreDiagnosticScenarios",
-                "stars": 8503,
+                "stars": 8504,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -571,7 +571,7 @@
                 "open_issues": 1,
                 "owner": "luk4z7",
                 "repo": "go-concurrency-guide",
-                "stars": 2893,
+                "stars": 2894,
                 "topics": [
                   "channels",
                   "concurrency",
@@ -603,7 +603,7 @@
                 "open_issues": 2,
                 "owner": "Maoni0",
                 "repo": "mem-doc",
-                "stars": 1963,
+                "stars": 1964,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T22:41:55.800Z",
+    "last_updated": "2026-10-30T22:14:46.205Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
@@ -630,7 +630,7 @@
       "open_issues": 46,
       "owner": "thangchung",
       "repo": "clean-code-dotnet",
-      "stars": 7749,
+      "stars": 7752,
       "topics": [
         "aspnet",
         "awesome",
