@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94693,
+                "stars": 94694,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -50,7 +50,7 @@
                 "open_issues": 30,
                 "owner": "piotrplenik",
                 "repo": "clean-code-php",
-                "stars": 12454,
+                "stars": 12455,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -100,7 +100,7 @@
                 "open_issues": 5,
                 "owner": "zedr",
                 "repo": "clean-code-python",
-                "stars": 4867,
+                "stars": 4868,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -174,7 +174,7 @@
                 "open_issues": 76,
                 "owner": "SAP",
                 "repo": "styleguides",
-                "stars": 2038,
+                "stars": 2039,
                 "topics": [
                   "abap"
                 ]
@@ -283,7 +283,7 @@
                 "open_issues": 141,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105690,
+                "stars": 105699,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -317,10 +317,10 @@
                 "description": "Style guides for Google-originated open-source projects",
                 "homepage": "https://google.github.io/styleguide/",
                 "id": 35969061,
-                "language": "HTML",
+                "language": "Emacs Lisp",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T14:43:21Z",
-                "open_issues": 86,
+                "last_commit": "2026-10-30T23:56:49Z",
+                "open_issues": 90,
                 "owner": "google",
                 "repo": "styleguide",
                 "stars": 39782,
@@ -348,7 +348,7 @@
                 "open_issues": 5,
                 "owner": "HackSoftware",
                 "repo": "Django-Styleguide",
-                "stars": 6307,
+                "stars": 6306,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -529,7 +529,7 @@
                 "open_issues": 22,
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12529,
+                "stars": 12528,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -550,7 +550,7 @@
                 "open_issues": 27,
                 "owner": "davidfowl",
                 "repo": "AspNetCoreDiagnosticScenarios",
-                "stars": 8504,
+                "stars": 8505,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T22:14:46.205Z",
+    "last_updated": "2026-10-31T21:28:19.396Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
@@ -630,7 +630,7 @@
       "open_issues": 46,
       "owner": "thangchung",
       "repo": "clean-code-dotnet",
-      "stars": 7752,
+      "stars": 7753,
       "topics": [
         "aspnet",
         "awesome",
