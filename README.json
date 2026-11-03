@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94690,
+                "stars": 94693,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -71,7 +71,7 @@
                 "open_issues": 3,
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9831,
+                "stars": 9834,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -100,7 +100,7 @@
                 "open_issues": 5,
                 "owner": "zedr",
                 "repo": "clean-code-python",
-                "stars": 4868,
+                "stars": 4867,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -283,7 +283,7 @@
                 "open_issues": 141,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105702,
+                "stars": 105713,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -323,7 +323,7 @@
                 "open_issues": 86,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39784,
+                "stars": 39791,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -376,7 +376,7 @@
                 "open_issues": 507,
                 "owner": "codecadwallader",
                 "repo": "codemaid",
-                "stars": 1989,
+                "stars": 1990,
                 "topics": [
                   "c-sharp",
                   "clean-code",
@@ -403,7 +403,7 @@
                 "open_issues": 14,
                 "owner": "sharpenrocks",
                 "repo": "Sharpen",
-                "stars": 413,
+                "stars": 414,
                 "topics": [
                   "csharp3",
                   "csharp5",
@@ -550,7 +550,7 @@
                 "open_issues": 27,
                 "owner": "davidfowl",
                 "repo": "AspNetCoreDiagnosticScenarios",
-                "stars": 8505,
+                "stars": 8507,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T21:57:56.969Z",
+    "last_updated": "2026-11-03T00:54:41.036Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
@@ -630,7 +630,7 @@
       "open_issues": 46,
       "owner": "thangchung",
       "repo": "clean-code-dotnet",
-      "stars": 7752,
+      "stars": 7753,
       "topics": [
         "aspnet",
         "awesome",
