@@ -39,7 +39,7 @@ Software engineering principles, from Robert C. Martin's book [*Clean Code*](htt
 
 Not every principle herein has to be strictly followed, and even fewer will be universally agreed upon. These are guidelines and nothing more, but they are ones codified over many years of collective experience by the authors of *Clean Code*.
 
-Inspired from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,694 | 🐛 124 | 🌐 JavaScript | 📅 2024-07-29 and [clean-code-php](https://github.com/jupeter/clean-code-php) ⭐ 12,455 | 🐛 30 | 🌐 PHP | 📅 2024-05-09 lists.
+Inspired from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,693 | 🐛 124 | 🌐 JavaScript | 📅 2024-07-29 and [clean-code-php](https://github.com/jupeter/clean-code-php) ⭐ 12,454 | 🐛 30 | 🌐 PHP | 📅 2024-05-09 lists.
 
 # Clean Code .NET
 
@@ -3122,11 +3122,11 @@ private int ConvertTo32BitInt(int value)
 
 ## Other Clean Code Lists
 
-* [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,694 | 🐛 124 | 🌐 JavaScript | 📅 2024-07-29 - Clean Code concepts adapted for JavaScript
-* [clean-code-php](https://github.com/jupeter/clean-code-php) ⭐ 12,455 | 🐛 30 | 🌐 PHP | 📅 2024-05-09 - Clean Code concepts adapted for PHP
+* [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,693 | 🐛 124 | 🌐 JavaScript | 📅 2024-07-29 - Clean Code concepts adapted for JavaScript
+* [clean-code-php](https://github.com/jupeter/clean-code-php) ⭐ 12,454 | 🐛 30 | 🌐 PHP | 📅 2024-05-09 - Clean Code concepts adapted for PHP
 * [clean-code-typescript](https://github.com/labs42io/clean-code-typescript) ⭐ 9,837 | 🐛 3 | 🌐 TypeScript | 📅 2025-07-01 - Clean Code concepts adapted for TypeScript
 * [clean-code-python](https://github.com/zedr/clean-code-python) ⭐ 4,867 | 🐛 5 | 🌐 Python | 📅 2023-06-10 - Clean Code concepts adapted for Python
-* [programming-principles](https://github.com/webpro/programming-principles) ⭐ 3,105 | 🐛 0 | 📅 2026-06-30 - Categorized overview of Programming Principles & Patterns
+* [programming-principles](https://github.com/webpro/programming-principles) ⭐ 3,107 | 🐛 0 | 📅 2026-06-30 - Categorized overview of Programming Principles & Patterns
 * [clean-go-article](https://github.com/Pungyeon/clean-go-article) ⭐ 3,086 | 🐛 8 | 📅 2023-01-31 - Clean Code concepts adapted for Golang and an example how to apply [clean code in Golang](https://github.com/Pungyeon/clean-go) ⭐ 141 | 🐛 0 | 🌐 Go | 📅 2020-02-03
 * [clean-abap](https://github.com/SAP/styleguides) ⭐ 2,040 | 🐛 76 | 🌐 Markdown | 📅 2026-10-21 - Clean Code concepts adapted for ABAP
 * [clean-code-ruby](https://github.com/uohzxela/clean-code-ruby) ⭐ 1,599 | 🐛 7 | 🌐 Ruby | 📅 2022-09-10 - Clean Code concepts adapted for Ruby
@@ -3135,20 +3135,20 @@ private int ConvertTo32BitInt(int value)
 
 ## Style Guides
 
-* [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) ⭐ 105,717 | 🐛 141 | 🌐 Dockerfile | 📅 2026-06-15 - The Node.js best practices list
-* [Google Styleguides](https://github.com/google/styleguide) ⭐ 39,796 | 🐛 84 | 🌐 Emacs Lisp | 📅 2026-11-04 - This project holds the C++ Style Guide, Swift Style Guide, Objective-C Style Guide, Java Style Guide, Python Style Guide, R Style Guide, Shell Style Guide, HTML/CSS Style Guide, JavaScript Style Guide, AngularJS Style Guide, Common Lisp Style Guide, and Vimscript Style Guide
-* [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) ⭐ 6,308 | 🐛 5 | 🌐 Python | 📅 2025-09-25 - Django styleguide used in HackSoft projects
+* [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) ⭐ 105,716 | 🐛 141 | 🌐 Dockerfile | 📅 2026-06-15 - The Node.js best practices list
+* [Google Styleguides](https://github.com/google/styleguide) ⭐ 39,800 | 🐛 84 | 🌐 Emacs Lisp | 📅 2026-11-05 - This project holds the C++ Style Guide, Swift Style Guide, Objective-C Style Guide, Java Style Guide, Python Style Guide, R Style Guide, Shell Style Guide, HTML/CSS Style Guide, JavaScript Style Guide, AngularJS Style Guide, Common Lisp Style Guide, and Vimscript Style Guide
+* [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) ⭐ 6,307 | 🐛 5 | 🌐 Python | 📅 2025-09-25 - Django styleguide used in HackSoft projects
 
 ## Tools
 
-* [codemaid](https://github.com/codecadwallader/codemaid) ⭐ 1,990 | 🐛 507 | 🌐 C# | 📅 2025-10-13 - open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding
+* [codemaid](https://github.com/codecadwallader/codemaid) ⭐ 1,989 | 🐛 507 | 🌐 C# | 📅 2025-10-13 - open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding
 * [Sharpen](https://github.com/sharpenrocks/Sharpen) ⭐ 414 | 🐛 14 | 🌐 C# | 📅 2022-12-08 - Visual Studio extension that intelligently introduces new C# features into your existing code base
 * [tslint-clean-code](https://github.com/Glavin001/tslint-clean-code) ⭐ 174 | 🐛 34 | 🌐 TypeScript | 📅 2023-01-11 - TSLint rules for enforcing Clean Code
 
 ## Cheatsheets
 
-* [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) ⭐ 25,577 | 🐛 10 | 📅 2024-10-15 - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects
-* [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) ⭐ 14,202 | 🐛 21 | 📅 2024-03-13 - Comprehensive language-agnostic guidelines on variables naming
+* [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) ⭐ 25,578 | 🐛 10 | 📅 2024-10-15 - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects
+* [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) ⭐ 14,201 | 🐛 21 | 📅 2024-03-13 - Comprehensive language-agnostic guidelines on variables naming
 * [Cognitive Load In Software Development](https://github.com/zakirullin/cognitive-load) ⭐ 12,528 | 🐛 22 | 📅 2026-10-26
 * [AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios) ⭐ 8,506 | 🐛 27 | 🌐 C# | 📅 2024-05-28 - Examples of broken patterns in ASP.NET Core applications
 * [Go Concurrency Guide](https://github.com/luk4z7/go-concurrency-guide) ⭐ 2,895 | 🐛 1 | 🌐 Go | 📅 2023-04-25
@@ -3186,4 +3186,4 @@ To the extent possible under law, [thangchung](https://github.com/thangchung) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
