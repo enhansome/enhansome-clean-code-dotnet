@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94695,
+                "stars": 94699,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -71,7 +71,7 @@
                 "open_issues": 3,
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9841,
+                "stars": 9842,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -174,7 +174,7 @@
                 "open_issues": 76,
                 "owner": "SAP",
                 "repo": "styleguides",
-                "stars": 2043,
+                "stars": 2044,
                 "topics": [
                   "abap"
                 ]
@@ -283,7 +283,7 @@
                 "open_issues": 140,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105737,
+                "stars": 105741,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -469,7 +469,7 @@
                 "open_issues": 10,
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25574,
+                "stars": 25571,
                 "topics": [
                   "es6",
                   "javascript"
@@ -529,7 +529,7 @@
                 "open_issues": 23,
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12539,
+                "stars": 12540,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -550,7 +550,7 @@
                 "open_issues": 27,
                 "owner": "davidfowl",
                 "repo": "AspNetCoreDiagnosticScenarios",
-                "stars": 8509,
+                "stars": 8508,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T23:29:32.041Z",
+    "last_updated": "2026-11-14T22:18:03.257Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
@@ -627,7 +627,7 @@
       "language": "C#",
       "license": "MIT",
       "last_commit": "2026-02-27T03:58:00Z",
-      "open_issues": 46,
+      "open_issues": 45,
       "owner": "thangchung",
       "repo": "clean-code-dotnet",
       "stars": 7758,
