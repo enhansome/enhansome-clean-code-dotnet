@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94701,
+                "stars": 94699,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -50,7 +50,7 @@
                 "open_issues": 30,
                 "owner": "piotrplenik",
                 "repo": "clean-code-php",
-                "stars": 12456,
+                "stars": 12455,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -71,7 +71,7 @@
                 "open_issues": 3,
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9842,
+                "stars": 9843,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "webpro",
                 "repo": "programming-principles",
-                "stars": 3110,
+                "stars": 3111,
                 "topics": [
                   "architectural-patterns",
                   "design-patterns",
@@ -174,7 +174,7 @@
                 "open_issues": 76,
                 "owner": "SAP",
                 "repo": "styleguides",
-                "stars": 2044,
+                "stars": 2047,
                 "topics": [
                   "abap"
                 ]
@@ -197,7 +197,7 @@
                 "open_issues": 7,
                 "owner": "uohzxela",
                 "repo": "clean-code-ruby",
-                "stars": 1601,
+                "stars": 1602,
                 "topics": [
                   "best-practices",
                   "clean-code",
@@ -222,7 +222,7 @@
                 "open_issues": 1,
                 "owner": "lucasvegi",
                 "repo": "Elixir-Code-Smells",
-                "stars": 1514,
+                "stars": 1515,
                 "topics": [
                   "code-smells",
                   "elixir",
@@ -283,7 +283,7 @@
                 "open_issues": 140,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105746,
+                "stars": 105745,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -323,7 +323,7 @@
                 "open_issues": 87,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39831,
+                "stars": 39834,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -529,7 +529,7 @@
                 "open_issues": 23,
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12540,
+                "stars": 12542,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T22:45:34.655Z",
+    "last_updated": "2026-11-17T01:50:29.426Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
