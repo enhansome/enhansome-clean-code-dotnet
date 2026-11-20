@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94693,
+                "stars": 94690,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -50,7 +50,7 @@
                 "open_issues": 30,
                 "owner": "piotrplenik",
                 "repo": "clean-code-php",
-                "stars": 12453,
+                "stars": 12452,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "webpro",
                 "repo": "programming-principles",
-                "stars": 3112,
+                "stars": 3115,
                 "topics": [
                   "architectural-patterns",
                   "design-patterns",
@@ -283,7 +283,7 @@
                 "open_issues": 140,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105753,
+                "stars": 105757,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -323,7 +323,7 @@
                 "open_issues": 85,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39848,
+                "stars": 39854,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -493,7 +493,7 @@
                 "open_issues": 21,
                 "owner": "kettanaito",
                 "repo": "naming-cheatsheet",
-                "stars": 14204,
+                "stars": 14203,
                 "topics": [
                   "action",
                   "cheatsheet",
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T00:34:35.886Z",
+    "last_updated": "2026-11-20T23:57:52.356Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
@@ -630,7 +630,7 @@
       "open_issues": 45,
       "owner": "thangchung",
       "repo": "clean-code-dotnet",
-      "stars": 7759,
+      "stars": 7760,
       "topics": [
         "aspnet",
         "awesome",
