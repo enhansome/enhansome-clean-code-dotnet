@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94693,
+                "stars": 94689,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -71,7 +71,7 @@
                 "open_issues": 3,
                 "owner": "labs42io",
                 "repo": "clean-code-typescript",
-                "stars": 9844,
+                "stars": 9845,
                 "topics": [
                   "best-practices",
                   "clean-architecture",
@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "webpro",
                 "repo": "programming-principles",
-                "stars": 3115,
+                "stars": 3116,
                 "topics": [
                   "architectural-patterns",
                   "design-patterns",
@@ -146,7 +146,7 @@
                 "open_issues": 8,
                 "owner": "Pungyeon",
                 "repo": "clean-go-article",
-                "stars": 3085,
+                "stars": 3084,
                 "topics": [
                   "clean-code",
                   "coding-guidelines",
@@ -174,7 +174,7 @@
                 "open_issues": 77,
                 "owner": "SAP",
                 "repo": "styleguides",
-                "stars": 2050,
+                "stars": 2054,
                 "topics": [
                   "abap"
                 ]
@@ -283,7 +283,7 @@
                 "open_issues": 140,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105763,
+                "stars": 105769,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -323,7 +323,7 @@
                 "open_issues": 85,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39857,
+                "stars": 39860,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -348,7 +348,7 @@
                 "open_issues": 5,
                 "owner": "HackSoftware",
                 "repo": "Django-Styleguide",
-                "stars": 6316,
+                "stars": 6315,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -403,7 +403,7 @@
                 "open_issues": 14,
                 "owner": "sharpenrocks",
                 "repo": "Sharpen",
-                "stars": 414,
+                "stars": 415,
                 "topics": [
                   "csharp3",
                   "csharp5",
@@ -469,7 +469,7 @@
                 "open_issues": 10,
                 "owner": "mbeaudru",
                 "repo": "modern-js-cheatsheet",
-                "stars": 25569,
+                "stars": 25568,
                 "topics": [
                   "es6",
                   "javascript"
@@ -526,10 +526,10 @@
                 "language": null,
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-10-26T07:56:08Z",
-                "open_issues": 23,
+                "open_issues": 22,
                 "owner": "zakirullin",
                 "repo": "cognitive-load",
-                "stars": 12545,
+                "stars": 12546,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -550,7 +550,7 @@
                 "open_issues": 27,
                 "owner": "davidfowl",
                 "repo": "AspNetCoreDiagnosticScenarios",
-                "stars": 8505,
+                "stars": 8504,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.935Z"
@@ -571,7 +571,7 @@
                 "open_issues": 1,
                 "owner": "luk4z7",
                 "repo": "go-concurrency-guide",
-                "stars": 2894,
+                "stars": 2895,
                 "topics": [
                   "channels",
                   "concurrency",
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T23:09:06.313Z",
+    "last_updated": "2026-11-22T23:34:10.344Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bathtub:  Clean Code concepts and tools adapted for .NET ",
@@ -630,7 +630,7 @@
       "open_issues": 45,
       "owner": "thangchung",
       "repo": "clean-code-dotnet",
-      "stars": 7759,
+      "stars": 7762,
       "topics": [
         "aspnet",
         "awesome",
